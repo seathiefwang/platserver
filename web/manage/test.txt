@@ -1,0 +1,2405 @@
+
+{"class":"Notify","method":"List"}zhangsan@test.com
+
+{
+    "class": "Notify", 
+    "method": "List" 
+}
+(null)
+{"class":"Notify","method":"List"}(null)
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}(null)
+{"class":"Notify","method":"List"}zhangsan@test.com
+
+{
+    "class": "Notify", 
+    "method": "List" 
+}
+(null)
+{"class":"Notify","method":"List"}(null)
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Device","method":"SetNotify","params":{"mid":"11QQ22WW","roomid":9,"notify":true}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Device","method":"SetNotify","params":{"mid":"11QQ22WW","roomid":9,"notify":false}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Device","method":"SetNotify","params":{"mid":"11QQ22WW","roomid":9,"notify":true}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Device","method":"SetNotify","params":{"mid":"11QQ22WW","roomid":9,"notify":false}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":8}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":10}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":11}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":10}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":8}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":8}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":10}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":11}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":10}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":8}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":8}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":10}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":8}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":8}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":10}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":11}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":8}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":8}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":10}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":11}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":10}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":8}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":8}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":11}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":10}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+
+{
+    "class": "Notify", 
+    "method": "List" 
+}
+zhangsan@test.com
+
+{
+    "class": "Notify", 
+    "method": "List" 
+}
+zhangsan@test.com
+
+{
+    "class": "Notify", 
+    "method": "List" 
+}
+zhangsan@test.com
+
+{
+    "class": "Notify", 
+    "method": "List" 
+}
+zhangsan@test.com
+
+{
+    "class": "Notify", 
+    "method": "List" 
+}
+zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+
+{
+    "class": "Notify", 
+    "method": "List" 
+}
+zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":8}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":8}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":10}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+
+{
+    "class": "Scene", 
+    "method": "GetInfo", 
+    "params": {
+        "sceneid": 9 
+    }
+}
+zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+
+{
+    "class": "Scene", 
+    "method": "GetInfo", 
+    "params": {
+        "sceneid": 9 
+    }
+}
+zhangsan@test.com
+
+{
+    "class": "Scene", 
+    "method": "List" 
+}
+zhangsan@test.com
+
+{
+    "class": "Scene", 
+    "method": "List" 
+}
+zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+
+{
+    "class": "Scene", 
+    "method": "GetInfo", 
+    "params": {
+        "sceneid": 9 
+    }
+}
+zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Scene","method":"Create","params":{"name":"Test"}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+
+{
+    "class": "Scene", 
+    "method": "GetInfo", 
+    "params": {
+        "sceneid": 9 
+    }
+}
+zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Scene","method":"Create","params":{"name":"dsa"}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+
+{
+    "class": "Scene", 
+    "method": "Create", 
+    "params": {
+        "name": "测试", 
+        "invokes": [
+            {    
+                "class": "Switch", 
+                "method": "TurnOff", 
+                "params": {
+                    "name": "墙壁开关", 
+                    "mid": "13221133", 
+                    "no": 1
+                }
+            }, 
+            {    
+                "class": "Switch", 
+                "method": "TurnOff", 
+                "params": {
+                    "name": "顶灯开关", 
+                    "mid": "13221133", 
+                    "no": 1
+                }
+            }
+        ]
+    }
+}
+zhangsan@test.com
+
+{
+    "class": "Scene", 
+    "method": "Create", 
+    "params": {
+        "name": "测试", 
+        "invokes": [
+            {    
+                "class": "Switch", 
+                "method": "TurnOff", 
+                "params": {
+                    "name": "墙壁开关", 
+                    "mid": "13221133", 
+                    "no": 1
+                }
+            }, 
+            {    
+                "class": "Switch", 
+                "method": "TurnOff", 
+                "params": {
+                    "name": "顶灯开关", 
+                    "mid": "13221133", 
+                    "no": 1
+                }
+            }
+        ]
+    }
+}
+zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+
+{
+    "class": "Assistant", 
+    "method": "List" 
+}
+zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+
+{
+    "class": "Assistant", 
+    "method": "List" 
+}
+zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+
+{
+    "class": "Assistant", 
+    "method": "List" 
+}
+zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+
+{
+    "class": "Assistant", 
+    "method": "Create", 
+    "params": {
+        "time": "10:00", 
+        "invokes": [
+            {    
+                "class": "Switch", 
+                "method": "TurnOff", 
+                "params": {
+                    "name": "墙壁开关", 
+                    "mid": "1234567890", 
+                    "no": 1
+                }
+            }, 
+            {    
+                "class": "Switch", 
+                "method": "TurnOff", 
+                "params": {
+                    "name": "顶灯开关", 
+                    "mid": "1234567891", 
+                    "no": 1
+                }
+            }
+        ]
+    }
+}
+zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Scene","method":"Create","params":{"name":"123"}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Scene","method":"Create","params":{"name1":"123"}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Scene","method":"Create","params":{"name":"123"}}zhangsan@test.com
+
+{
+    "class": "Assistant", 
+    "method": "Create", 
+    "params": {
+        "time": "10:00", 
+        "invokes": [
+            {    
+                "class": "Switch", 
+                "method": "TurnOff", 
+                "params": {
+                    "name": "墙壁开关", 
+                    "mid": "1234567890", 
+                    "no": 1
+                }
+            }, 
+            {    
+                "class": "Switch", 
+                "method": "TurnOff", 
+                "params": {
+                    "name": "顶灯开关", 
+                    "mid": "1234567891", 
+                    "no": 1
+                }
+            }
+        ]
+    }
+}
+zhangsan@test.com
+
+{
+    "class": "Assistant", 
+    "method": "List" 
+}
+zhangsan@test.com
+
+{
+    "class": "Assistant", 
+    "method": "List" 
+}
+zhangsan@test.com
+
+{
+    "class": "Assistant", 
+    "method": "List" 
+}
+zhangsan@test.com
+
+{
+    "class": "Assistant", 
+    "method": "List" 
+}
+zhangsan@test.com
+
+{
+    "class": "Assistant", 
+    "method": "List" 
+}
+zhangsan@test.com
+
+{
+    "class": "Assistant", 
+    "method": "List" 
+}
+zhangsan@test.com
+
+{
+    "class": "Assistant", 
+    "method": "List" 
+}
+zhangsan@test.com
+
+{
+    "class": "Assistant", 
+    "method": "List" 
+}
+zhangsan@test.com
+{"class":"Scene","method":"Create","params":{"name":"123"}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Scene","method":"Create","params":{"name":"123"}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+
+{
+    "class": "Assistant", 
+    "method": "List" 
+}
+zhangsan@test.com
+
+{
+    "class": "Assistant", 
+    "method": "List" 
+}
+zhangsan@test.com
+
+{
+    "class": "Assistant", 
+    "method": "List" 
+}
+zhangsan@test.com
+
+{
+    "class": "Assistant", 
+    "method": "List" 
+}
+zhangsan@test.com
+
+{
+    "class": "Assistant", 
+    "method": "List" 
+}
+zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Scene","method":"Create","params":{"name":"test","invokes":[]}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+
+{
+    "class": "Scene", 
+    "method": "Create", 
+    "params": {
+        "name": "测试" 
+    }
+}
+zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+
+{
+    "class": "Scene", 
+    "method": "Create", 
+    "params": {
+        "name": "测试" 
+    }
+}
+zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Scene","method":"Destroy","params":{"sceneid":10}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Assistant","method":"Modify","params":{"assid":1,"time":"08:00","invokes":[]}}zhangsan@test.com
+{"class":"Assistant","method":"Modify","params":{"assid":2,"time":"09:00","invokes":[{"class":"Switch","params":{"mid":"11QQ22WW","name":"TEST","no":"1"}},{"class":"Switch","params":{"mid":"13221133","name":"卧室灯","no":"1"}}]}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Assistant","method":"Modify","params":{"assid":2,"time":"09:00","invokes":[{"class":"Switch","params":{"mid":"11QQ22WW","name":"TEST","no":"1"}},{"class":"Switch","params":{"mid":"13221133","name":"卧室灯","no":"1"}}]}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Assistant","method":"Modify","params":{"assid":2,"time":"09:00","invokes":[{"class":"Switch","method":"TurnOff","params":{"mid":"11QQ22WW","name":"TEST","no":"1"}},{"class":"Switch","method":"TurnOff","params":{"mid":"13221133","name":"卧室灯","no":"1"}}]}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Assistant","method":"Modify","params":{"assid":2,"time":"09:00","invokes":[{"class":"Switch","method":"TurnOff","params":{"mid":"11QQ22WW","name":"TEST","no":"1"}},{"class":"Switch","method":"TurnOff","params":{"mid":"13221133","name":"卧室灯","no":"1"}}]}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Scene","method":"GetInfo","params":{"sceneid":2}}zhangsan@test.com
+{"class":"Scene","method":"Modify","params":{"sceneid":2,"name":"晚餐模式","invokes":[{"class":"Switch","method":"TurnOff","params":{"mid":"11QQ22WW","name":"TEST","no":"1"}},{"class":"Switch","method":"TurnOff","params":{"mid":"13221133","name":"卧室灯","no":"1"}}]}}zhangsan@test.com
+{"class":"Scene","method":"GetInfo","params":{"sceneid":3}}zhangsan@test.com
+{"class":"Scene","method":"Modify","params":{"sceneid":3,"name":"睡眠模式","invokes":[{"class":"Switch","method":"TurnOff","params":{"mid":"11QQ22WW","name":"TEST","no":"1"}},{"class":"Switch","method":"TurnOff","params":{"mid":"13221133","name":"卧室灯","no":"1"}}]}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Scene","method":"GetInfo","params":{"sceneid":1}}zhangsan@test.com
+{"class":"Assistant","method":"Modify","params":{"assid":1,"time":"08:00","invokes":[{"class":"Switch","method":"TurnOff","params":{"mid":"11QQ22WW","name":"TEST","no":"1"}},{"class":"Switch","method":"TurnOff","params":{"mid":"13221133","name":"卧室灯","no":"1"}}]}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Scene","method":"GetInfo","params":{"sceneid":2}}zhangsan@test.com
+{"class":"Scene","method":"Modify","params":{"sceneid":2,"name":"晚餐模式","invokes":[{"class":"Switch","method":"TurnOff","params":{"mid":"11QQ22WW","name":"TEST","no":"1"}},{"class":"Switch","method":"TurnOff","params":{"mid":"13221133","name":"卧室灯","no":"1"}}]}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Assistant","method":"Modify","params":{"assid":2,"time":"09:00","invokes":[{"class":"Switch","method":"TurnOn","params":{"mid":"11QQ22WW","name":"TEST","no":"1"}},{"class":"Switch","method":"TurnOn","params":{"mid":"13221133","name":"卧室灯","no":"1"}}]}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"SetNotify","params":{"mid":"13221133","roomid":7,"notify":true}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+
+{
+    "class": "Scene", 
+    "method": "Create", 
+    "params": {
+        "name": "测试" 
+    }
+}
+zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":8}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":10}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":11}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":10}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":8}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"AssisEnable","params":{"mid":"13221133","roomid":7,"assisEn":true}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Scene","method":"GetInfo","params":{"sceneid":2}}zhangsan@test.com
+{"class":"Scene","method":"GetInfo","params":{"sceneid":3}}zhangsan@test.com
+{"class":"Scene","method":"GetInfo","params":{"sceneid":5}}zhangsan@test.com
+{"class":"Scene","method":"GetInfo","params":{"sceneid":8}}zhangsan@test.com
+{"class":"Scene","method":"GetInfo","params":{"sceneid":9}}zhangsan@test.com
+{"class":"Scene","method":"GetInfo","params":{"sceneid":3}}zhangsan@test.com
+{"class":"Scene","method":"GetInfo","params":{"sceneid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":8}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":10}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":8}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":8}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Scene","method":"GetInfo","params":{"sceneid":3}}zhangsan@test.com
+{"class":"Scene","method":"GetInfo","params":{"sceneid":5}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":8}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Assistant","method":"Modify","params":{"assid":3,"time":"19:00","invokes":[{"class":"Switch","method":"TurnOff","params":{"mid":"11QQ22WW","name":"TEST","no":"1"}},{"class":"Switch","method":"TurnOn","params":{"mid":"13221133","name":"卧室灯","no":"1"}}]}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":8}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"SetNotify","params":{"mid":"13221133","roomid":7,"notify":false}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Scene","method":"GetInfo","params":{"sceneid":5}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Scene","method":"GetInfo","params":{"sceneid":2}}zhangsan@test.com
+{"class":"Scene","method":"GetInfo","params":{"sceneid":1}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":8}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":10}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"AssisEnable","params":{"mid":"11QQ22WW","roomid":9,"assisEn":true}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Scene","method":"Execute","params":{"sceneid":5}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Scene","method":"Execute","params":{"sceneid":5}}zhangsan@test.com
+{"class":"Scene","method":"Execute","params":{"sceneid":5}}zhangsan@test.com
+{"class":"Device","method":"AssisEnable","params":{"mid":"11QQ22WW","roomid":9,"assisEn":false}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Scene","method":"Execute","params":{"sceneid":5}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":8}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":11}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":8}}zhangsan@test.com
+{"class":"Scene","method":"Execute","params":{"sceneid":5}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Scene","method":"GetInfo","params":{"sceneid":3}}zhangsan@test.com
+{"class":"Scene","method":"GetInfo","params":{"sceneid":8}}zhangsan@test.com
+{"class":"Scene","method":"GetInfo","params":{"sceneid":8}}zhangsan@test.com
+{"class":"Scene","method":"GetInfo","params":{"sceneid":5}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Scene","method":"Execute","params":{"sceneid":9}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":8}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":11}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Device","method":"AssisEnable","params":{"mid":"11QQ22WW","roomid":9,"assisEn":true}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":7}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":17}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":20}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":17}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":16}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":17}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":16}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":17}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":21}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":20}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":1}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"SetNotify","params":{"mid":"11QQ22WW","roomid":9,"notify":true}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"Device","method":"SetNotify","params":{"mid":"11QQ22WW","roomid":9,"notify":false}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":9}}zhangsan@test.com
+{"class":"House","method":"Del","params":{"houseid":1}}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":13}}zhangsan@test.com
+{"class":"Room","method":"Del","params":{"houseid":4,"roomid":13}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":14}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":14}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":14}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":14}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":14}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":14}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":14}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":14}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Assistant","method":"Modify","params":{"assid":6,"time":"8:20","invokes":[]}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"Add","params":{"name":"测试"}}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":14}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":14}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"SetMainDevice","params":{"houseid":0,"mid":"001BC509A56B","vercode":"234565"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":14}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":14}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":14}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"SetMainDevice","params":{"houseid":14,"mid":"001BC509A56B","vercode":"1122334"}}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":14}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":14}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Room","method":"Add","params":{"houseid":14,"name":"卧室"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":14}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":32}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"Add","params":{"mid":"13221133","name":"灯","type":"Switch","roomid":32}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":14}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":32}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":32}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":32}}zhangsan@test.com
+{"class":"Device","method":"Add","params":{"mid":"13221133","name":"灯","type":"Switch","roomid":32}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":32}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":32}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":32}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":14}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":32}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":14}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":32}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":32}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":32}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"Add","params":{"mid":"13221133","name":"灯","type":"Switch","roomid":32}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":14}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":32}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":14}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":32}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":14}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":32}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":14}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":32}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":14}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":32}}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":14}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":32}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":32}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":32}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"Add","params":{"mid":"13221133","name":"时间","type":"Switch","roomid":0}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":32}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":14}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":32}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":14}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":32}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":14}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":32}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":14}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":32}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+
+{
+    "class": "Room",
+    "method": "List",
+    "params": {
+        "houseid": 1
+    }
+}
+zhangsan@test.com
+
+{
+    "class": "House",
+    "method": "List"
+}
+zhangsan@test.com
+
+{
+    "class": "Room",
+    "method": "List",
+    "params": {
+        "houseid": 14
+    }
+}
+zhangsan@test.com
+
+{
+    "class": "Device",
+    "method": "Add",
+    "params": 
+    {
+        "roomid": 32,
+        "mid": "13221133",
+        "name": "灯",
+        "type": "Socket"
+    }
+}
+zhangsan@test.com
+
+{
+    "class": "Device",
+    "method": "List",
+    "params": 
+    {
+        "roomid": 7
+    }
+}
+zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":32}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":14}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":16}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":16}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":17}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":20}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":21}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":22}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":14}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":32}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":32}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":14}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":32}}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":14}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":14}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":32}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":14}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":32}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":14}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":32}}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":14}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":32}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":32}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":16}}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":14}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"Add","params":{"mid":"ffffffff","name":"小酥希望","type":"Switch","roomid":12}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"SetNotify","params":{"mid":"ffffffff","roomid":12,"notify":true}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Device","method":"SetNotify","params":{"mid":"ffffffff","roomid":12,"notify":false}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Device","method":"SetNotify","params":{"mid":"ffffffff","roomid":12,"notify":true}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Scene","method":"Create","params":{"name":"离家","invokes":[]}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Scene","method":"GetInfo","params":{"sceneid":11}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":14}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":14}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":14}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":14}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Scene","method":"GetInfo","params":{"sceneid":11}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":14}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":14}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":32}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Scene","method":"GetInfo","params":{"sceneid":11}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":14}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":32}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":14}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":32}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":14}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":32}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+
+{
+    "class": "Device",
+    "method": "Add",
+    "params": 
+    {
+        "roomid": 32,
+        "mid": "13221133",
+        "name": "灯",
+        "type": "Socket"
+    }
+}
+zhangsan@test.com
+
+{
+    "class": "Room",
+    "method": "List",
+    "params": {
+        "houseid": 14
+    }
+}
+zhangsan@test.com
+
+{
+    "class": "Device",
+    "method": "List",
+    "params": 
+    {
+        "roomid": 7
+    }
+}
+zhangsan@test.com
+
+{
+    "class": "Scene", 
+    "method": "Create", 
+    "params": {
+        "name": "测试" 
+    }
+}
+zhangsan@test.com
+
+{
+    "class": "Scene", 
+    "method": "Create", 
+    "params": {
+        "name": "测试" 
+    }
+}
+zhangsan@test.com
+
+{
+    "class": "Scene", 
+    "method": "Modify", 
+    "params": {
+        "name": "测试", 
+        "sceneid":5,
+        "invokes":[]
+    }
+}
+zhangsan@test.com
+
+{
+    "class": "Scene", 
+    "method": "Modify", 
+    "params": {
+        "name": "测试", 
+        "sceneid":5,
+        "invokes":[]
+    }
+}
+zhangsan@test.com
+
+{
+    "class": "Scene", 
+    "method": "Modify", 
+    "params": {
+        "name": "测试", 
+        "sceneid":5,
+        "invokes":[]
+    }
+}
+zhangsan@test.com
+
+{
+    "class": "Scene", 
+    "method": "Modify", 
+    "params": {
+        "name": "测试", 
+        "sceneid":5,
+        "invokes":[]
+    }
+}
+zhangsan@test.com
+
+{
+    "class": "Scene", 
+    "method": "Modify", 
+    "params": {
+        "name": "测试", 
+        "sceneid":5,
+        "invokes":[]
+    }
+}
+zhangsan@test.com
+
+{
+    "class": "Scene", 
+    "method": "Modify", 
+    "params": {
+        "name": "测试", 
+        "sceneid":5,
+        "invokes":[]
+    }
+}
+zhangsan@test.com
+
+{
+    "class": "Scene", 
+    "method": "Modify", 
+    "params": {
+        "name": "测试", 
+        "sceneid":5,
+        "invokes":[]
+    }
+}
+zhangsan@test.com
+
+{
+    "class": "Scene", 
+    "method": "GetInfo", 
+    "params": {
+        "sceneid": 5 
+    }
+}
+zhangsan@test.com
+
+{
+    "class": "Scene", 
+    "method": "GetInfo", 
+    "params": {
+        "sceneid": 5 
+    }
+}
+zhangsan@test.com
+
+{
+    "class": "Device",
+    "method": "Del",
+    "params": 
+    {
+        "roomid": 7,
+        "mid": "1122ABFF",
+        "name": "窗帘",
+        "type": "Curtain"
+    }
+}
+zhangsan@test.com
+
+{
+    "class": "Device",
+    "method": "Del",
+    "params": 
+    {
+        "roomid": 7,
+        "mid": "1122ABFF"
+    }
+}
+zhangsan@test.com
+
+{
+    "class": "Device",
+    "method": "Add",
+    "params": 
+    {
+        "roomid": 32,
+        "mid": "13221133",
+        "name": "灯",
+        "type": "Socket"
+    }
+}
+zhangsan@test.com
+
+{
+    "class": "Device",
+    "method": "Add",
+    "params": 
+    {
+        "roomid": 32,
+        "mid": "13221133",
+        "name": "灯",
+        "type": "Socket"
+    }
+}
+zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":14}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":14}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":32}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":14}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":32}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":14}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Device","method":"AssisEnable","params":{"mid":"ffffffff","roomid":12,"assisEn":true}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Device","method":"AssisEnable","params":{"mid":"ffffffff","roomid":12,"assisEn":false}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":14}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":32}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":16}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":14}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":17}}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":14}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":5}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":15}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":17}}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"Notify","method":"List"}zhangsan@test.com
+{"class":"House","method":"List","params":{"user":"zhangsan@test.com"}}zhangsan@test.com
+{"class":"Scene","method":"List"}zhangsan@test.com
+{"class":"Room","method":"List","params":{"houseid":4}}zhangsan@test.com
+{"class":"Device","method":"List","params":{"roomid":12}}

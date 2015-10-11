@@ -1,0 +1,69 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+cache	ez_sql_mysql.php	/^			if ( $cache = $this->get_cache($query) )$/;"	v
+charsets	ez_sql_mysql.php	/^					$charsets = array();$/;"	v
+connect	ez_sql_mysql.php	/^		function connect($dbuser='', $dbpassword='', $dbhost='localhost')$/;"	f
+current_time	demo.php	/^	$current_time = $db->get_var("SELECT " . $db->sysdate());$/;"	v
+db	demo.php	/^	$db = new ezSQL_mysql('root','beeiot1017','wechat_alarm_notify','127.0.0.1');$/;"	v
+db	disk_cache_example.php	/^	$db = new ezSQL_mysql('db_user', 'db_pass', 'db_name');$/;"	v
+dbh	ez_sql_mysql.php	/^			else if ( ! $this->dbh = @mysql_connect($dbhost,$dbuser,$dbpassword,true,131074) )$/;"	v
+dbhost	ez_sql_mysql.php	/^				$this->dbhost = $dbhost;$/;"	v
+dbhost	ez_sql_mysql.php	/^			$this->dbhost = $dbhost;$/;"	v
+dbhost	ez_sql_mysql.php	/^		var $dbhost = false;$/;"	v
+dbname	ez_sql_mysql.php	/^				$this->dbname = $dbname;$/;"	v
+dbname	ez_sql_mysql.php	/^			$this->dbname = $dbname;$/;"	v
+dbname	ez_sql_mysql.php	/^		var $dbname = false;$/;"	v
+dbpassword	ez_sql_mysql.php	/^				$this->dbpassword = $dbpassword;$/;"	v
+dbpassword	ez_sql_mysql.php	/^			$this->dbpassword = $dbpassword;$/;"	v
+dbpassword	ez_sql_mysql.php	/^		function connect($dbuser='', $dbpassword='', $dbhost='localhost')$/;"	v
+dbpassword	ez_sql_mysql.php	/^		function ezSQL_mysql($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost', $encoding='')$/;"	v
+dbpassword	ez_sql_mysql.php	/^		function quick_connect($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost', $encoding='')$/;"	v
+dbpassword	ez_sql_mysql.php	/^		var $dbpassword = false;$/;"	v
+dbuser	ez_sql_mysql.php	/^				$this->dbuser = $dbuser;$/;"	v
+dbuser	ez_sql_mysql.php	/^			$this->dbuser = $dbuser;$/;"	v
+dbuser	ez_sql_mysql.php	/^		var $dbuser = false;$/;"	v
+disconnect	ez_sql_mysql.php	/^		function disconnect()$/;"	f
+encoding	ez_sql_mysql.php	/^					$encoding = strtolower(str_replace("-","",$encoding));$/;"	v
+encoding	ez_sql_mysql.php	/^				if ( $encoding == '') $encoding = $this->encoding;$/;"	v
+encoding	ez_sql_mysql.php	/^			$this->encoding = $encoding;$/;"	v
+encoding	ez_sql_mysql.php	/^		function select($dbname='', $encoding='')$/;"	v
+encoding	ez_sql_mysql.php	/^		var $encoding = false;$/;"	v
+escape	ez_sql_mysql.php	/^		function escape($str)$/;"	f
+ezSQL_mysql	ez_sql_mysql.php	/^		function ezSQL_mysql($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost', $encoding='')$/;"	f
+ezSQL_mysql	ez_sql_mysql.php	/^	class ezSQL_mysql extends ezSQLcore$/;"	c
+ezsql_mysql_str	ez_sql_mysql.php	/^	$ezsql_mysql_str = array$/;"	v
+func_call	ez_sql_mysql.php	/^			$this->func_call = "\\$db->query(\\"$query\\")";$/;"	v
+i	ez_sql_mysql.php	/^				$i=0;$/;"	v
+insert_id	ez_sql_mysql.php	/^					$this->insert_id = @mysql_insert_id($this->dbh);$/;"	v
+is_insert	ez_sql_mysql.php	/^				$is_insert = false;$/;"	v
+is_insert	ez_sql_mysql.php	/^				$is_insert = true;$/;"	v
+last_query	ez_sql_mysql.php	/^			$this->last_query = $query;$/;"	v
+my_tables	demo.php	/^	$my_tables = $db->get_results("SHOW TABLES",ARRAY_N);$/;"	v
+num_queries	ez_sql_mysql.php	/^				$this->num_queries = 0;$/;"	v
+num_rows	ez_sql_mysql.php	/^				$num_rows=0;$/;"	v
+num_rows	ez_sql_mysql.php	/^				$this->num_rows = $num_rows;$/;"	v
+query	ez_sql_mysql.php	/^			$query = trim($query);$/;"	v
+query	ez_sql_mysql.php	/^		function query($query)$/;"	f
+quick_connect	ez_sql_mysql.php	/^		function quick_connect($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost', $encoding='')$/;"	f
+result	ez_sql_mysql.php	/^					$result = mysql_query("SHOW CHARACTER SET");$/;"	v
+result	ez_sql_mysql.php	/^			$this->result = @mysql_query($query,$this->dbh);$/;"	v
+return_val	ez_sql_mysql.php	/^				$return_val = $this->num_rows;$/;"	v
+return_val	ez_sql_mysql.php	/^				$return_val = $this->rows_affected;$/;"	v
+return_val	ez_sql_mysql.php	/^				$return_val = true;$/;"	v
+return_val	ez_sql_mysql.php	/^			$return_val = 0;$/;"	v
+return_val	ez_sql_mysql.php	/^			$return_val = false;$/;"	v
+return_val	ez_sql_mysql.php	/^			else $return_val = true;$/;"	v
+return_val	ez_sql_mysql.php	/^			global $ezsql_mysql_str; $return_val = false;$/;"	v
+row	ez_sql_mysql.php	/^				while ( $row = @mysql_fetch_object($this->result) )$/;"	v
+rows_affected	ez_sql_mysql.php	/^				$this->rows_affected = @mysql_affected_rows($this->dbh);$/;"	v
+rows_affected	ez_sql_mysql.php	/^		var $rows_affected = false;$/;"	v
+select	ez_sql_mysql.php	/^		function select($dbname='', $encoding='')$/;"	f
+str	ez_sql_mysql.php	/^					  $str = $ezsql_mysql_str[5];$/;"	v
+str	ez_sql_mysql.php	/^			if ( $str = @mysql_error($this->dbh) )$/;"	v
+sysdate	demo.php	/^	\/\/ (and using abstracted function sysdate)$/;"	f
+sysdate	ez_sql_mysql.php	/^		function sysdate()$/;"	f
+was	ez_sql_mysql.php	/^			\/\/ Log how the function was called$/;"	f

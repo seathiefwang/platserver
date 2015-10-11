@@ -1,0 +1,1006 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ARRAY_A	ezSQL-master/shared/ez_sql_core.php	/^	define('ARRAY_A','ARRAY_A',true);$/;"	d
+ARRAY_A	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^	define('ARRAY_A','ARRAY_A',true);$/;"	d
+ARRAY_A	ezSQL-master/shared/ez_sql_core_202console.php	/^	define('ARRAY_A','ARRAY_A',true);$/;"	d
+ARRAY_N	ezSQL-master/shared/ez_sql_core.php	/^	define('ARRAY_N','ARRAY_N',true);$/;"	d
+ARRAY_N	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^	define('ARRAY_N','ARRAY_N',true);$/;"	d
+ARRAY_N	ezSQL-master/shared/ez_sql_core_202console.php	/^	define('ARRAY_N','ARRAY_N',true);$/;"	d
+CI	ezSQL-master/codeigniter/Ezsql_codeigniter.php	/^			$this->CI =& get_instance();$/;"	v
+ConnectJSONRPC	ConnectJSONRPC.php	/^class ConnectJSONRPC$/;"	c
+ControlJSONRPC	ControlJSONRPC.php	/^class ControlJSONRPC$/;"	c
+ConvertMySqlToMSSql	ezSQL-master/mssql/ez_sql_mssql.php	/^		function ConvertMySqlToMSSql($query)$/;"	f
+ConvertMySqlToMSSql	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^		function ConvertMySqlToMSSql($query)$/;"	f
+ConvertMySqlTosybase	ezSQL-master/sybase/ez_sql_sybase.php	/^		function ConvertMySqlTosybase($query)$/;"	f
+DisconnectClient	ControlJSONRPC.php	/^    function DisconnectClient($fid) $/;"	f
+EZSQL_CORE_ERROR	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^	define('EZSQL_CORE_ERROR','ezSQLcore can not be used by itself (it is designed for use by database specific modules).');$/;"	d
+EZSQL_CORE_ERROR	ezSQL-master/shared/ez_sql_core_202console.php	/^	define('EZSQL_CORE_ERROR','ezSQLcore can not be used by itself (it is designed for use by database specific modules).');$/;"	d
+EZSQL_VERSION	ezSQL-master/shared/ez_sql_core.php	/^	define('EZSQL_VERSION','2.17');$/;"	d
+EZSQL_VERSION	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^	define('EZSQL_VERSION','2.1-console');  \/\/ === TJH === added an identifying  flag to the version number$/;"	d
+EZSQL_VERSION	ezSQL-master/shared/ez_sql_core_202console.php	/^	define('EZSQL_VERSION','2.02-console');$/;"	d
+GetUsersToLogout	UserManager.php	/^    public function GetUsersToLogout()$/;"	f
+ModLogin	UserManager.php	/^    public function ModLogin($uid, $fid)$/;"	f
+OBJECT	ezSQL-master/shared/ez_sql_core.php	/^	define('OBJECT','OBJECT',true);$/;"	d
+OBJECT	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^	define('OBJECT','OBJECT',true);$/;"	d
+OBJECT	ezSQL-master/shared/ez_sql_core_202console.php	/^	define('OBJECT','OBJECT',true);$/;"	d
+SendTextToFid	ControlJSONRPC.php	/^    function SendTextToFid($fid, $cont){$/;"	f
+SendTextToUser	UserManager.php	/^    public function SendTextToUser($user, $cont)$/;"	f
+UserManager	UserManager.php	/^class UserManager extends ControlJSONRPC$/;"	c
+__construct	ConnectJSONRPC.php	/^    function __construct()$/;"	f
+__construct	ControlJSONRPC.php	/^    function __construct()$/;"	f
+__construct	UserManager.php	/^    function __construct()$/;"	f
+__construct	ezSQL-master/codeigniter/Ezsql_codeigniter.php	/^		function __construct()$/;"	f
+__destruct	ConnectJSONRPC.php	/^    function __destruct()$/;"	f
+__destruct	ControlJSONRPC.php	/^    function __destruct()$/;"	f
+__destruct	UserManager.php	/^    function __destruct()$/;"	f
+_ret	ControlJSONRPC.php	/^        $_ret = $this->_send(json_encode($json));$/;"	v
+_ret	ControlJSONRPC.php	/^        $_ret = $this->_send(urldecode($json));$/;"	v
+_send	ControlJSONRPC.php	/^    private function _send($cont) $/;"	f
+arr	UserManager.php	/^    $arr = array("result"=>$uid, "fid"=>$fid);$/;"	v
+array	ControlJSONRPC.php	/^        $array = array($/;"	v
+athletes	ezSQL-master/cubrid/select_example.php	/^	$athletes = $db->get_results("SELECT code, name FROM athlete");$/;"	v
+buff	ControlJSONRPC.php	/^            $buff = socket_read($this->socket, 1024, PHP_BINARY_READ);  $/;"	v
+buff	ControlJSONRPC.php	/^        $buff = "";$/;"	v
+cache	ezSQL-master/codeigniter/Ezsql_codeigniter.php	/^			if ( $cache = $this->get_cache($query) )$/;"	v
+cache	ezSQL-master/cubrid/ez_sql_cubrid.php	/^			if ( $cache = $this->get_cache($query) )$/;"	v
+cache	ezSQL-master/mssql/ez_sql_mssql.php	/^			if ( $cache = $this->get_cache($query) )$/;"	v
+cache	ezSQL-master/mysql/ez_sql_mysql.php	/^			if ( $cache = $this->get_cache($query) )$/;"	v
+cache	ezSQL-master/mysqli/ez_sql_mysqli.php	/^			if ( $cache = $this->get_cache($query) )$/;"	v
+cache	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^			if ( $cache = $this->get_cache($query) )$/;"	v
+cache	ezSQL-master/pdo/ez_sql_pdo.php	/^			if ( $cache = $this->get_cache($query) )$/;"	v
+cache	ezSQL-master/postgresql/ez_sql_postgresql.php	/^			if ( $cache = $this->get_cache($query) )$/;"	v
+cache	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^			if ( $cache = $this->get_cache($query) )$/;"	v
+cache	ezSQL-master/sybase/ez_sql_sybase.php	/^			if ( $cache = $this->get_cache($query) )$/;"	v
+cache_dir	ezSQL-master/shared/ez_sql_core.php	/^		var $cache_dir        = false;$/;"	v
+cache_dir	ezSQL-master/shared/ez_sql_core_202console.php	/^		var $cache_dir       = false;$/;"	v
+cache_file	ezSQL-master/shared/ez_sql_core.php	/^			$cache_file = $this->cache_dir.'\/'.md5($query);$/;"	v
+cache_file	ezSQL-master/shared/ez_sql_core_202console.php	/^			$cache_file = $this->cache_dir.'\/'.md5($query);$/;"	v
+cache_inserts	ezSQL-master/shared/ez_sql_core.php	/^		var $cache_inserts    = false;$/;"	v
+cache_inserts	ezSQL-master/shared/ez_sql_core_202console.php	/^		var $cache_inserts   = false;$/;"	v
+cache_queries	ezSQL-master/shared/ez_sql_core.php	/^		var $cache_queries    = false;$/;"	v
+cache_queries	ezSQL-master/shared/ez_sql_core_202console.php	/^		var $cache_queries   = false;$/;"	v
+cache_timeout	ezSQL-master/shared/ez_sql_core.php	/^		var $cache_timeout    = 24; \/\/ hours$/;"	v
+cache_timeout	ezSQL-master/shared/ez_sql_core_202console.php	/^		var $cache_timeout   = 24; \/\/ hours$/;"	v
+captured_errors	ezSQL-master/shared/ez_sql_core.php	/^		var $captured_errors  = array();$/;"	v
+captured_errors	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^		var $captured_errors = array();$/;"	v
+captured_errors	ezSQL-master/shared/ez_sql_core_202console.php	/^		var $captured_errors = array();$/;"	v
+catch_error	ezSQL-master/pdo/ez_sql_pdo.php	/^		function catch_error()$/;"	f
+charsets	ezSQL-master/mysql/ez_sql_mysql.php	/^					$charsets = array();$/;"	v
+charsets	ezSQL-master/mysqli/ez_sql_mysqli.php	/^					$charsets = array();$/;"	v
+ci_query	ezSQL-master/codeigniter/Ezsql_codeigniter.php	/^			$ci_query = $this->CI->db->query($query);$/;"	v
+col	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^						$col = new StdClass();$/;"	v
+col_count	ezSQL-master/pdo/ez_sql_pdo.php	/^				$col_count = $sth->columnCount();$/;"	v
+col_info	ezSQL-master/shared/ez_sql_core.php	/^					$this->col_info = $result_cache['col_info'];$/;"	v
+col_info	ezSQL-master/shared/ez_sql_core.php	/^			$this->col_info = null;$/;"	v
+col_info	ezSQL-master/shared/ez_sql_core.php	/^		var $col_info         = null;$/;"	v
+col_info	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^			$this->col_info = null;$/;"	v
+col_info	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^		var $col_info        = null;$/;"	v
+col_info	ezSQL-master/shared/ez_sql_core_202console.php	/^					$this->col_info = $result_cache['col_info'];$/;"	v
+col_info	ezSQL-master/shared/ez_sql_core_202console.php	/^			$this->col_info = null;$/;"	v
+col_info	ezSQL-master/shared/ez_sql_core_202console.php	/^		var $col_info        = null;$/;"	v
+col_info	ezSQL-master/sqlite/ez_sql_sqlite3.php	/^				$this->col_info = array();$/;"	v
+col_offset	ezSQL-master/shared/ez_sql_core.php	/^				if ( $col_offset == -1 )$/;"	v
+col_offset	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^				if ( $col_offset == -1 )$/;"	v
+col_offset	ezSQL-master/shared/ez_sql_core_202console.php	/^				if ( $col_offset == -1 )$/;"	v
+col_title	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^					foreach ( $results as $col_title => $col_contents )$/;"	v
+connect	ezSQL-master/cubrid/ez_sql_cubrid.php	/^		function connect($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost', $dbport=33000)$/;"	f
+connect	ezSQL-master/mssql/ez_sql_mssql.php	/^		function connect($dbuser='', $dbpassword='', $dbhost='localhost')$/;"	f
+connect	ezSQL-master/mysql/ez_sql_mysql.php	/^		function connect($dbuser='', $dbpassword='', $dbhost='localhost')$/;"	f
+connect	ezSQL-master/mysqli/ez_sql_mysqli.php	/^		function connect($dbuser='', $dbpassword='', $dbhost='localhost', $dbport=false)$/;"	f
+connect	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^		function connect($dbuser='', $dbpassword='', $dbname='')$/;"	f
+connect	ezSQL-master/pdo/ez_sql_pdo.php	/^		function connect($dsn='', $user='', $password='', $ssl=array())$/;"	f
+connect	ezSQL-master/postgresql/ez_sql_postgresql.php	/^		function connect($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost', $port='5432')$/;"	f
+connect	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^		function connect()$/;"	f
+connect	ezSQL-master/shared/ez_sql_core_202console.php	/^		function connect()$/;"	f
+connect	ezSQL-master/sqlite/ez_sql_sqlite.php	/^		function connect($dbpath='', $dbname='')$/;"	f
+connect	ezSQL-master/sqlite/ez_sql_sqlite3.php	/^		function connect($dbpath='', $dbname='')$/;"	f
+connect	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^		function connect($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost')$/;"	f
+connect	ezSQL-master/sybase/ez_sql_sybase.php	/^		function connect($dbuser='', $dbpassword='', $dbhost='localhost')$/;"	f
+connection	ControlJSONRPC.php	/^        $connection = socket_connect($this->socket, $host, $port);    \/\/  连接  $/;"	v
+connectionOptions	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^\/\/			$connectionOptions = array("UID" => $dbuser, "PWD" => $dbpassword, "Database" => $dbname);$/;"	v
+containg	ezSQL-master/shared/ez_sql_core.php	/^	*  Core class containg common functions to manipulate query result$/;"	c
+containg	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^	*  Core class containg common functions to manipulate query result$/;"	c
+containg	ezSQL-master/shared/ez_sql_core_202console.php	/^	*  Core class containg common functions to manipulate query result$/;"	c
+convertMySqlToMSSqlQuery	ezSQL-master/mssql/ez_sql_mssql.php	/^			$this->convertMySqlToMSSqlQuery = $convertMySqlToMSSqlQuery;$/;"	v
+convertMySqlToMSSqlQuery	ezSQL-master/mssql/ez_sql_mssql.php	/^		var $convertMySqlToMSSqlQuery = TRUE;$/;"	v
+convertMySqlToMSSqlQuery	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^			$this->convertMySqlToMSSqlQuery = $convertMySqlToMSSqlQuery;$/;"	v
+convertMySqlToMSSqlQuery	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^		var $convertMySqlToMSSqlQuery = TRUE;$/;"	v
+convertMySqlTosybaseQuery	ezSQL-master/sybase/ez_sql_sybase.php	/^			$this->convertMySqlTosybaseQuery = $convertMySqlTosybaseQuery;$/;"	v
+convertMySqlTosybaseQuery	ezSQL-master/sybase/ez_sql_sybase.php	/^		var $convertMySqlTosybaseQuery = TRUE;$/;"	v
+current_date	ezSQL-master/oracle8_9/demo.php	/^	$current_date = $db->get_var("SELECT " . $db->sysdate() . " FROM DUAL");$/;"	v
+current_time	ezSQL-master/cubrid/demo.php	/^	$current_time = $db->get_var("SELECT " . $db->sysdate());$/;"	v
+current_time	ezSQL-master/mssql/demo.php	/^	$current_time = $db->get_var("SELECT " . $db->sysdate());$/;"	v
+current_time	ezSQL-master/mysql/demo.php	/^	$current_time = $db->get_var("SELECT " . $db->sysdate());$/;"	v
+current_time	ezSQL-master/mysqli/demo.php	/^	$current_time = $db->get_var("SELECT " . $db->sysdate());$/;"	v
+current_time	ezSQL-master/pdo/demo_pdo_for_mysql.php	/^	$current_time = $db->get_var("SELECT " . $db->sysdate());$/;"	v
+current_time	ezSQL-master/postgresql/demo.php	/^	$current_time = $db->get_var("SELECT " . $db->sysdate());$/;"	v
+current_time	ezSQL-master/sqlsrv/demo.php	/^	$current_time = $db->get_var("SELECT " . $db->sysdate() . " AS 'GetDate()'");$/;"	v
+datatype	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^							$datatype = "binary";$/;"	v
+datatype	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^							$datatype = "datetime";$/;"	v
+datatype	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^							$datatype = "datetime2";$/;"	v
+datatype	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^							$datatype = "decimal";$/;"	v
+datatype	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^							$datatype = "money";$/;"	v
+datatype	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^							$datatype = "smalldatetime";$/;"	v
+datatype	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^							$datatype = "smallmoney";$/;"	v
+datatype	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^							$datatype = "timestamp";$/;"	v
+datatype	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^						$datatype = $ezsql_sqlsrv_type2str_non_dup[$col->typeid];$/;"	v
+datatype	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^			$datatype = "dt not defined";$/;"	v
+db	UserManager.php	/^        $this->db = $GLOBALS['db'];$/;"	v
+db	UserManager.php	/^    private $db;$/;"	v
+db	ezSQL-master/codeigniter/Ezsql_codeigniter.php	/^			$db = $this;$/;"	v
+db	ezSQL-master/cubrid/demo.php	/^	$db = new ezSQL_cubrid('dba','','demodb','localhost',33000);$/;"	v
+db	ezSQL-master/cubrid/disk_cache_example.php	/^	$db = new ezSQL_cubrid('db_user', 'db_pass', 'db_name');$/;"	v
+db	ezSQL-master/cubrid/disk_cache_example.php	/^	$db = new ezSQL_cubrid('dba','','demodb');$/;"	v
+db	ezSQL-master/cubrid/select_example.php	/^	$db = new ezSQL_cubrid('dba','','demodb');$/;"	v
+db	ezSQL-master/mssql/demo.php	/^	$db = new ezSQL_mssql($db_user, $db_password, $db_name, $db_host);$/;"	v
+db	ezSQL-master/mysql/demo.php	/^	$db = new ezSQL_mysql('root','beeiot1017','wechat_alarm_notify','127.0.0.1');$/;"	v
+db	ezSQL-master/mysql/disk_cache_example.php	/^	$db = new ezSQL_mysql('db_user', 'db_pass', 'db_name');$/;"	v
+db	ezSQL-master/mysqli/demo.php	/^	$db = new ezSQL_mysqli('db_user','db_password','db_name','db_host');$/;"	v
+db	ezSQL-master/oracle8_9/demo.php	/^	$db = new ezSQL_oracle8_9('user','password','oracle.instance');        $/;"	v
+db	ezSQL-master/oracle8_9/disk_cache_example.php	/^	$db = new ezSQL_oracle8_9('user','password','oracle.instance');$/;"	v
+db	ezSQL-master/pdo/demo_pdo_for_mysql.php	/^	$db = new ezSQL_pdo('mysql:host=db_host;dbname=db_name', 'db_user', 'db_password');$/;"	v
+db	ezSQL-master/pdo/demo_pdo_for_sqlite.php	/^	$db = new ezSQL_pdo('sqlite:my_database.sq3','someuser','somepassword');$/;"	v
+db	ezSQL-master/postgresql/demo.php	/^        $db = new ezSQL_postgresql('db_user','db_password','db_name','db_host');$/;"	v
+db	ezSQL-master/sqlite/demo.php	/^	$db = new ezSQL_sqlite('.\/','sqlite_test.db');        $/;"	v
+db	ezSQL-master/sqlsrv/demo.php	/^	$db = new ezSQL_sqlsrv($db_user, $db_password, $db_name, $db_host);$/;"	v
+db	ezSQL_init.php	/^    $db = new ezSQL_mysql($/;"	v
+db_connect_time	ezSQL-master/shared/ez_sql_core.php	/^		var $db_connect_time  = 0;$/;"	v
+db_data	ezSQL-master/shared/ez_sql_core.php	/^		*     $db_data = array('login'=>'jv','email'=>'jv@vip.ie', 'user_id' => 1, 'created' => 'NOW()');$/;"	v
+db_host	ezSQL-master/mssql/demo.php	/^	 $db_host = '';$/;"	v
+db_host	ezSQL-master/mssql/demo.php	/^	 \/\/$db_host = 'servername';   or $db_host = 'servername, portnumber'$/;"	v
+db_host	ezSQL-master/sqlsrv/demo.php	/^	 $db_host = '';$/;"	v
+db_host	ezSQL-master/sqlsrv/demo.php	/^	 \/\/$db_host = 'servername';   or $db_host = 'servername, portnumber'$/;"	v
+db_name	ezSQL-master/mssql/demo.php	/^	 $db_name = '';$/;"	v
+db_name	ezSQL-master/sqlsrv/demo.php	/^	 $db_name = ''; $/;"	v
+db_password	ezSQL-master/mssql/demo.php	/^	 $db_password = '';$/;"	v
+db_password	ezSQL-master/sqlsrv/demo.php	/^	 $db_password = '';$/;"	v
+db_user	ezSQL-master/mssql/demo.php	/^	 $db_user = '';$/;"	v
+db_user	ezSQL-master/sqlsrv/demo.php	/^	 $db_user = '';$/;"	v
+db_user	ezSQL-master/sqlsrv/demo.php	/^	 \/\/$db_user = 'sa';           or $db_user = ''; for Windows Authentication passthru$/;"	v
+dball	ezSQL-master/postgresql/demo.php	/^	$dball = $db->get_results("SELECT " . $db->showDatabases());$/;"	v
+dball	ezSQL-master/postgresql/demo.php	/^	$dball = $db->get_results("SHOW ALL");$/;"	v
+dbh	ezSQL-master/cubrid/ez_sql_cubrid.php	/^			else if ( ! $this->dbh = @cubrid_connect($dbhost,$dbport,$dbname,$dbuser,$dbpassword) )$/;"	v
+dbh	ezSQL-master/mssql/ez_sql_mssql.php	/^			else if ( ! $this->dbh = @mssql_connect($dbhost,$dbuser,$dbpassword) )$/;"	v
+dbh	ezSQL-master/mysql/ez_sql_mysql.php	/^			else if ( ! $this->dbh = @mysql_connect($dbhost,$dbuser,$dbpassword,true,131074) )$/;"	v
+dbh	ezSQL-master/mysqli/ez_sql_mysqli.php	/^				$this->dbh = new mysqli($dbhost,$dbuser,$dbpassword, '', $dbport);$/;"	v
+dbh	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^			else if ( ! $this->dbh = OCILogon($dbuser, $dbpassword, $dbname) )$/;"	v
+dbh	ezSQL-master/pdo/ez_sql_pdo.php	/^					$this->dbh = new PDO($dsn, $user, $password);$/;"	v
+dbh	ezSQL-master/pdo/ez_sql_pdo.php	/^					$this->dbh = new PDO($dsn, $user, $password, $ssl);$/;"	v
+dbh	ezSQL-master/postgresql/ez_sql_postgresql.php	/^			else if ( ! $this->dbh = @pg_connect("host=$dbhost port=$port dbname=$dbname user=$dbuser password=$dbpassword", true) )$/;"	v
+dbh	ezSQL-master/sqlite/ez_sql_sqlite.php	/^			else if ( ! $this->dbh = @sqlite_open($dbpath.$dbname) )$/;"	v
+dbh	ezSQL-master/sqlite/ez_sql_sqlite3.php	/^			else if ( ! $this->dbh = @new SQLite3($dbpath.$dbname) )$/;"	v
+dbh	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^			if ( ( $this->dbh = @sqlsrv_connect($dbhost, $connectionOptions) ) === false )$/;"	v
+dbh	ezSQL-master/sybase/ez_sql_sybase.php	/^			else if ( ! $this->dbh = @sybase_connect($dbhost,$dbuser,$dbpassword) )$/;"	v
+dbhost	ezSQL-master/cubrid/ez_sql_cubrid.php	/^				$this->dbhost = $dbhost;$/;"	v
+dbhost	ezSQL-master/cubrid/ez_sql_cubrid.php	/^			$this->dbhost = $dbhost;$/;"	v
+dbhost	ezSQL-master/cubrid/ez_sql_cubrid.php	/^		var $dbhost = false;$/;"	v
+dbhost	ezSQL-master/mssql/ez_sql_mssql.php	/^				$this->dbhost = $dbhost;$/;"	v
+dbhost	ezSQL-master/mssql/ez_sql_mssql.php	/^			$this->dbhost = $dbhost;$/;"	v
+dbhost	ezSQL-master/mssql/ez_sql_mssql.php	/^		var $dbhost = false;$/;"	v
+dbhost	ezSQL-master/mysql/ez_sql_mysql.php	/^				$this->dbhost = $dbhost;$/;"	v
+dbhost	ezSQL-master/mysql/ez_sql_mysql.php	/^			$this->dbhost = $dbhost;$/;"	v
+dbhost	ezSQL-master/mysql/ez_sql_mysql.php	/^		var $dbhost = false;$/;"	v
+dbhost	ezSQL-master/mysqli/ez_sql_mysqli.php	/^					$this->dbhost = $dbhost;$/;"	v
+dbhost	ezSQL-master/mysqli/ez_sql_mysqli.php	/^		var $dbhost = false;$/;"	v
+dbhost	ezSQL-master/postgresql/ez_sql_postgresql.php	/^				$this->dbhost = $dbhost;$/;"	v
+dbhost	ezSQL-master/postgresql/ez_sql_postgresql.php	/^			$this->dbhost = $dbhost;$/;"	v
+dbhost	ezSQL-master/postgresql/ez_sql_postgresql.php	/^		var $dbhost = false;$/;"	v
+dbhost	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^				$this->dbhost = $dbhost;$/;"	v
+dbhost	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^			$this->dbhost = $dbhost;$/;"	v
+dbhost	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^		var $dbhost = false;$/;"	v
+dbhost	ezSQL-master/sybase/ez_sql_sybase.php	/^				$this->dbhost = $dbhost;$/;"	v
+dbhost	ezSQL-master/sybase/ez_sql_sybase.php	/^			$this->dbhost = $dbhost;$/;"	v
+dbhost	ezSQL-master/sybase/ez_sql_sybase.php	/^		var $dbhost = false;$/;"	v
+dbname	ezSQL-master/cubrid/ez_sql_cubrid.php	/^			$this->dbname = $dbname;$/;"	v
+dbname	ezSQL-master/cubrid/ez_sql_cubrid.php	/^		var $dbname = false;$/;"	v
+dbname	ezSQL-master/cubrid/ez_sql_cubrid.php	/^                $this->dbname = $dbname;$/;"	v
+dbname	ezSQL-master/mssql/ez_sql_mssql.php	/^				$this->dbname = $dbname;$/;"	v
+dbname	ezSQL-master/mssql/ez_sql_mssql.php	/^			$this->dbname = $dbname;$/;"	v
+dbname	ezSQL-master/mssql/ez_sql_mssql.php	/^		var $dbname = false;$/;"	v
+dbname	ezSQL-master/mysql/ez_sql_mysql.php	/^				$this->dbname = $dbname;$/;"	v
+dbname	ezSQL-master/mysql/ez_sql_mysql.php	/^			$this->dbname = $dbname;$/;"	v
+dbname	ezSQL-master/mysql/ez_sql_mysql.php	/^		var $dbname = false;$/;"	v
+dbname	ezSQL-master/mysqli/ez_sql_mysqli.php	/^				$this->dbname = $dbname;$/;"	v
+dbname	ezSQL-master/mysqli/ez_sql_mysqli.php	/^			$this->dbname = $dbname;$/;"	v
+dbname	ezSQL-master/mysqli/ez_sql_mysqli.php	/^		var $dbname = false;$/;"	v
+dbname	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^				$this->dbname = $dbname;$/;"	v
+dbname	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^			$this->dbname = $dbname;$/;"	v
+dbname	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^		var $dbname = false;$/;"	v
+dbname	ezSQL-master/postgresql/ez_sql_postgresql.php	/^				$this->dbname = $dbname;$/;"	v
+dbname	ezSQL-master/postgresql/ez_sql_postgresql.php	/^			$this->dbname = $dbname;$/;"	v
+dbname	ezSQL-master/postgresql/ez_sql_postgresql.php	/^		var $dbname = false;$/;"	v
+dbname	ezSQL-master/sqlite/ez_sql_sqlite.php	/^		function connect($dbpath='', $dbname='')$/;"	v
+dbname	ezSQL-master/sqlite/ez_sql_sqlite.php	/^		function ezSQL_sqlite($dbpath='', $dbname='')$/;"	v
+dbname	ezSQL-master/sqlite/ez_sql_sqlite.php	/^		function quick_connect($dbpath='', $dbname='')$/;"	v
+dbname	ezSQL-master/sqlite/ez_sql_sqlite.php	/^		function select($dbpath='', $dbname='')$/;"	v
+dbname	ezSQL-master/sqlite/ez_sql_sqlite3.php	/^		function connect($dbpath='', $dbname='')$/;"	v
+dbname	ezSQL-master/sqlite/ez_sql_sqlite3.php	/^		function ezSQL_sqlite3($dbpath='', $dbname='')$/;"	v
+dbname	ezSQL-master/sqlite/ez_sql_sqlite3.php	/^		function quick_connect($dbpath='', $dbname='')$/;"	v
+dbname	ezSQL-master/sqlite/ez_sql_sqlite3.php	/^		function select($dbpath='', $dbname='')$/;"	v
+dbname	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^			$this->dbname = $dbname;$/;"	v
+dbname	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^		var $dbname = false;$/;"	v
+dbname	ezSQL-master/sybase/ez_sql_sybase.php	/^				$this->dbname = $dbname;$/;"	v
+dbname	ezSQL-master/sybase/ez_sql_sybase.php	/^			$this->dbname = $dbname;$/;"	v
+dbname	ezSQL-master/sybase/ez_sql_sybase.php	/^		var $dbname = false;$/;"	v
+dbpassword	ezSQL-master/cubrid/ez_sql_cubrid.php	/^				$this->dbpassword = $dbpassword;$/;"	v
+dbpassword	ezSQL-master/cubrid/ez_sql_cubrid.php	/^			$this->dbpassword = $dbpassword;$/;"	v
+dbpassword	ezSQL-master/cubrid/ez_sql_cubrid.php	/^			return $this->connect($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost', $dbport=33000);$/;"	v
+dbpassword	ezSQL-master/cubrid/ez_sql_cubrid.php	/^		function connect($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost', $dbport=33000)$/;"	v
+dbpassword	ezSQL-master/cubrid/ez_sql_cubrid.php	/^		function ezSQL_cubrid($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost', $dbport=33000)$/;"	v
+dbpassword	ezSQL-master/cubrid/ez_sql_cubrid.php	/^		function quick_connect($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost', $dbport=33000)$/;"	v
+dbpassword	ezSQL-master/cubrid/ez_sql_cubrid.php	/^		function select($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost', $dbport=33000)$/;"	v
+dbpassword	ezSQL-master/cubrid/ez_sql_cubrid.php	/^		var $dbpassword = false;$/;"	v
+dbpassword	ezSQL-master/mssql/ez_sql_mssql.php	/^				$this->dbpassword = $dbpassword;$/;"	v
+dbpassword	ezSQL-master/mssql/ez_sql_mssql.php	/^			$this->dbpassword = $dbpassword;$/;"	v
+dbpassword	ezSQL-master/mssql/ez_sql_mssql.php	/^		function connect($dbuser='', $dbpassword='', $dbhost='localhost')$/;"	v
+dbpassword	ezSQL-master/mssql/ez_sql_mssql.php	/^		function ezSQL_mssql($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost', $convertMySqlToMSSqlQuery=true)$/;"	v
+dbpassword	ezSQL-master/mssql/ez_sql_mssql.php	/^		function quick_connect($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost')$/;"	v
+dbpassword	ezSQL-master/mssql/ez_sql_mssql.php	/^		var $dbpassword = false;$/;"	v
+dbpassword	ezSQL-master/mysql/ez_sql_mysql.php	/^				$this->dbpassword = $dbpassword;$/;"	v
+dbpassword	ezSQL-master/mysql/ez_sql_mysql.php	/^			$this->dbpassword = $dbpassword;$/;"	v
+dbpassword	ezSQL-master/mysql/ez_sql_mysql.php	/^		function connect($dbuser='', $dbpassword='', $dbhost='localhost')$/;"	v
+dbpassword	ezSQL-master/mysql/ez_sql_mysql.php	/^		function ezSQL_mysql($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost', $encoding='')$/;"	v
+dbpassword	ezSQL-master/mysql/ez_sql_mysql.php	/^		function quick_connect($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost', $encoding='')$/;"	v
+dbpassword	ezSQL-master/mysql/ez_sql_mysql.php	/^		var $dbpassword = false;$/;"	v
+dbpassword	ezSQL-master/mysqli/ez_sql_mysqli.php	/^					$this->dbpassword = $dbpassword;$/;"	v
+dbpassword	ezSQL-master/mysqli/ez_sql_mysqli.php	/^			$this->dbpassword = $dbpassword;$/;"	v
+dbpassword	ezSQL-master/mysqli/ez_sql_mysqli.php	/^		function connect($dbuser='', $dbpassword='', $dbhost='localhost', $dbport=false)$/;"	v
+dbpassword	ezSQL-master/mysqli/ez_sql_mysqli.php	/^		function ezSQL_mysqli($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost', $encoding='')$/;"	v
+dbpassword	ezSQL-master/mysqli/ez_sql_mysqli.php	/^		function quick_connect($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost', $dbport='3306', $encoding='')$/;"	v
+dbpassword	ezSQL-master/mysqli/ez_sql_mysqli.php	/^		var $dbpassword = false;$/;"	v
+dbpassword	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^				$this->dbpassword = $dbpassword;$/;"	v
+dbpassword	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^			$this->dbpassword = $dbpassword;$/;"	v
+dbpassword	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^			return $this->connect($dbuser='', $dbpassword='', $dbname='');$/;"	v
+dbpassword	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^		function connect($dbuser='', $dbpassword='', $dbname='')$/;"	v
+dbpassword	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^		function ezSQL_oracle8_9($dbuser='', $dbpassword='', $dbname='')$/;"	v
+dbpassword	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^		function quick_connect($dbuser='', $dbpassword='', $dbname='')$/;"	v
+dbpassword	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^		function select($dbuser='', $dbpassword='', $dbname='')$/;"	v
+dbpassword	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^		var $dbpassword = false;$/;"	v
+dbpassword	ezSQL-master/postgresql/ez_sql_postgresql.php	/^				$this->dbpassword = $dbpassword;$/;"	v
+dbpassword	ezSQL-master/postgresql/ez_sql_postgresql.php	/^			$this->dbpassword = $dbpassword;$/;"	v
+dbpassword	ezSQL-master/postgresql/ez_sql_postgresql.php	/^		function connect($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost', $port='5432')$/;"	v
+dbpassword	ezSQL-master/postgresql/ez_sql_postgresql.php	/^		function ezSQL_postgresql($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost', $port='5432')$/;"	v
+dbpassword	ezSQL-master/postgresql/ez_sql_postgresql.php	/^		function quick_connect($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost', $port='5432')$/;"	v
+dbpassword	ezSQL-master/postgresql/ez_sql_postgresql.php	/^		function select($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost', $port='5432')$/;"	v
+dbpassword	ezSQL-master/postgresql/ez_sql_postgresql.php	/^		var $dbpassword = false;$/;"	v
+dbpassword	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^				$this->dbpassword = $dbpassword;$/;"	v
+dbpassword	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^			$this->dbpassword = $dbpassword;$/;"	v
+dbpassword	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^		function connect($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost')$/;"	v
+dbpassword	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^		function ezSQL_sqlsrv($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost', $convertMySqlToMSSqlQuery=true)$/;"	v
+dbpassword	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^		function quick_connect($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost')$/;"	v
+dbpassword	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^		var $dbpassword = false;$/;"	v
+dbpassword	ezSQL-master/sybase/ez_sql_sybase.php	/^				$this->dbpassword = $dbpassword;$/;"	v
+dbpassword	ezSQL-master/sybase/ez_sql_sybase.php	/^			$this->dbpassword = $dbpassword;$/;"	v
+dbpassword	ezSQL-master/sybase/ez_sql_sybase.php	/^		function connect($dbuser='', $dbpassword='', $dbhost='localhost')$/;"	v
+dbpassword	ezSQL-master/sybase/ez_sql_sybase.php	/^		function ezSQL_sybase($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost', $convertMySqlTosybaseQuery=true)$/;"	v
+dbpassword	ezSQL-master/sybase/ez_sql_sybase.php	/^		function quick_connect($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost')$/;"	v
+dbpassword	ezSQL-master/sybase/ez_sql_sybase.php	/^		var $dbpassword = false;$/;"	v
+dbport	ezSQL-master/cubrid/ez_sql_cubrid.php	/^                $this->dbport = $dbport;$/;"	v
+dbport	ezSQL-master/cubrid/ez_sql_cubrid.php	/^            $this->dbport = $dbport;$/;"	v
+dbport	ezSQL-master/cubrid/ez_sql_cubrid.php	/^        var $dbport = false;$/;"	v
+dbport	ezSQL-master/mysqli/ez_sql_mysqli.php	/^					$this->dbport = $dbport;$/;"	v
+dbport	ezSQL-master/mysqli/ez_sql_mysqli.php	/^		var $dbport = false;$/;"	v
+dbuser	ezSQL-master/cubrid/ez_sql_cubrid.php	/^				$this->dbuser = $dbuser;$/;"	v
+dbuser	ezSQL-master/cubrid/ez_sql_cubrid.php	/^			$this->dbuser = $dbuser;$/;"	v
+dbuser	ezSQL-master/cubrid/ez_sql_cubrid.php	/^		var $dbuser = false;$/;"	v
+dbuser	ezSQL-master/mssql/ez_sql_mssql.php	/^				$this->dbuser = $dbuser;$/;"	v
+dbuser	ezSQL-master/mssql/ez_sql_mssql.php	/^			$this->dbuser = $dbuser;$/;"	v
+dbuser	ezSQL-master/mssql/ez_sql_mssql.php	/^		var $dbuser = false;$/;"	v
+dbuser	ezSQL-master/mysql/ez_sql_mysql.php	/^				$this->dbuser = $dbuser;$/;"	v
+dbuser	ezSQL-master/mysql/ez_sql_mysql.php	/^			$this->dbuser = $dbuser;$/;"	v
+dbuser	ezSQL-master/mysql/ez_sql_mysql.php	/^		var $dbuser = false;$/;"	v
+dbuser	ezSQL-master/mysqli/ez_sql_mysqli.php	/^					$this->dbuser = $dbuser;$/;"	v
+dbuser	ezSQL-master/mysqli/ez_sql_mysqli.php	/^			$this->dbuser = $dbuser;$/;"	v
+dbuser	ezSQL-master/mysqli/ez_sql_mysqli.php	/^		var $dbuser = false;$/;"	v
+dbuser	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^				$this->dbuser = $dbuser;$/;"	v
+dbuser	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^			$this->dbuser = $dbuser;$/;"	v
+dbuser	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^		var $dbuser = false;$/;"	v
+dbuser	ezSQL-master/postgresql/ez_sql_postgresql.php	/^				$this->dbuser = $dbuser;$/;"	v
+dbuser	ezSQL-master/postgresql/ez_sql_postgresql.php	/^			$this->dbuser = $dbuser;$/;"	v
+dbuser	ezSQL-master/postgresql/ez_sql_postgresql.php	/^		var $dbuser = false;$/;"	v
+dbuser	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^				$this->dbuser = $dbuser;$/;"	v
+dbuser	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^			$this->dbuser = $dbuser;$/;"	v
+dbuser	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^		var $dbuser = false;$/;"	v
+dbuser	ezSQL-master/sybase/ez_sql_sybase.php	/^				$this->dbuser = $dbuser;$/;"	v
+dbuser	ezSQL-master/sybase/ez_sql_sybase.php	/^			$this->dbuser = $dbuser;$/;"	v
+dbuser	ezSQL-master/sybase/ez_sql_sybase.php	/^		var $dbuser = false;$/;"	v
+debug	ezSQL-master/codeigniter/Ezsql_codeigniter.php	/^		var $debug = true;$/;"	v
+debug	ezSQL-master/shared/ez_sql_core.php	/^		function debug($print_to_screen=true)$/;"	f
+debug	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^		function debug($debug_echo)     \/\/ === TJH ===   set a default for function to be able to switch "echo" on\/off$/;"	f
+debug	ezSQL-master/shared/ez_sql_core_202console.php	/^		function debug($debug_echo)     \/\/ === TJH ===   set a default for function to be able to switch "echo" on\/off$/;"	f
+debug_all	ezSQL-master/shared/ez_sql_core.php	/^		var $debug_all        = false;  \/\/ same as $trace$/;"	v
+debug_all	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^		var $debug_all       = false;  \/\/ same as $trace$/;"	v
+debug_all	ezSQL-master/shared/ez_sql_core_202console.php	/^		var $debug_all       = false;  \/\/ same as $trace$/;"	v
+debug_called	ezSQL-master/shared/ez_sql_core.php	/^			$this->debug_called = true;$/;"	v
+debug_called	ezSQL-master/shared/ez_sql_core.php	/^		var $debug_called     = false;$/;"	v
+debug_called	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^			$this->debug_called = true;$/;"	v
+debug_called	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^		var $debug_called    = false;$/;"	v
+debug_called	ezSQL-master/shared/ez_sql_core_202console.php	/^			$this->debug_called = true;$/;"	v
+debug_called	ezSQL-master/shared/ez_sql_core_202console.php	/^		var $debug_called    = false;$/;"	v
+debug_echo	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^		var $debug_echo = true; 	   \/\/ == TJH ==  \/\/ default now needed for echo of debug function$/;"	v
+debug_echo	ezSQL-master/shared/ez_sql_core_202console.php	/^		var $debug_echo = true; 	   \/\/ == TJH ==  \/\/ default now needed for echo of debug function$/;"	v
+debug_echo_is_on	ezSQL-master/shared/ez_sql_core.php	/^		var $debug_echo_is_on = true;$/;"	v
+default	ezSQL-master/shared/ez_sql_core.php	/^		function get_host_port( $host, $default = false )$/;"	v
+descTable	ezSQL-master/postgresql/ez_sql_postgresql.php	/^		function descTable($tbl_name)$/;"	f
+disconnect	ezSQL-master/cubrid/ez_sql_cubrid.php	/^		function disconnect()$/;"	f
+disconnect	ezSQL-master/mysql/ez_sql_mysql.php	/^		function disconnect()$/;"	f
+disconnect	ezSQL-master/mysqli/ez_sql_mysqli.php	/^		function disconnect()$/;"	f
+disconnect	ezSQL-master/postgresql/ez_sql_postgresql.php	/^		function disconnect()$/;"	f
+disconnect	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^		function disconnect()$/;"	f
+do_profile	ezSQL-master/shared/ez_sql_core.php	/^		var $do_profile       = false;$/;"	v
+donation	ezSQL-master/shared/ez_sql_core.php	/^		function donation()$/;"	f
+donation	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^		function donation()$/;"	f
+donation	ezSQL-master/shared/ez_sql_core_202console.php	/^		function donation()$/;"	f
+dsn	ezSQL-master/pdo/ez_sql_pdo.php	/^		var $dsn;$/;"	v
+dumpvar	ezSQL-master/shared/ez_sql_core.php	/^		function dumpvar($mixed)$/;"	f
+dumpvar	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^		function dumpvar($mixed)$/;"	f
+dumpvar	ezSQL-master/shared/ez_sql_core_202console.php	/^		function dumpvar($mixed)$/;"	f
+encoding	ezSQL-master/mysql/ez_sql_mysql.php	/^					$encoding = strtolower(str_replace("-","",$encoding));$/;"	v
+encoding	ezSQL-master/mysql/ez_sql_mysql.php	/^				if ( $encoding == '') $encoding = $this->encoding;$/;"	v
+encoding	ezSQL-master/mysql/ez_sql_mysql.php	/^			$this->encoding = $encoding;$/;"	v
+encoding	ezSQL-master/mysql/ez_sql_mysql.php	/^		function select($dbname='', $encoding='')$/;"	v
+encoding	ezSQL-master/mysql/ez_sql_mysql.php	/^		var $encoding = false;$/;"	v
+encoding	ezSQL-master/mysqli/ez_sql_mysqli.php	/^					$encoding = strtolower(str_replace("-","",$encoding));$/;"	v
+encoding	ezSQL-master/mysqli/ez_sql_mysqli.php	/^			$this->encoding = $encoding;$/;"	v
+encoding	ezSQL-master/mysqli/ez_sql_mysqli.php	/^		function select($dbname='', $encoding='')$/;"	v
+encoding	ezSQL-master/mysqli/ez_sql_mysqli.php	/^		var $encoding = false;$/;"	v
+err_array	ezSQL-master/pdo/ez_sql_pdo.php	/^			$err_array = $this->dbh->errorInfo();$/;"	v
+err_str	ezSQL-master/sqlite/ez_sql_sqlite.php	/^				$err_str = sqlite_error_string (sqlite_last_error($this->dbh));$/;"	v
+err_str	ezSQL-master/sqlite/ez_sql_sqlite3.php	/^				$err_str = $this->dbh->lastErrorMsg();$/;"	v
+error	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^				$error = OCIError($stmt);$/;"	v
+error	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^				$error = OCIError($this->dbh);$/;"	v
+errorCode	ezSQL-master/mssql/ez_sql_mssql.php	/^				$errorCode = @mssql_result($error_res, 0, "errorcode");$/;"	v
+errorCode	ezSQL-master/sybase/ez_sql_sybase.php	/^				$errorCode = @sybase_result($error_res, 0, "errorcode");$/;"	v
+errorMessage	ezSQL-master/mssql/ez_sql_mssql.php	/^					$errorMessage = $errorMessage_Row[1];$/;"	v
+errorMessage	ezSQL-master/sybase/ez_sql_sybase.php	/^					$errorMessage = $errorMessage_Row[1];$/;"	v
+errorMessage_Row	ezSQL-master/mssql/ez_sql_mssql.php	/^					$errorMessage_Row = @mssql_fetch_row($errormessage_res);$/;"	v
+errorMessage_Row	ezSQL-master/sybase/ez_sql_sybase.php	/^					$errorMessage_Row = @sybase_fetch_row($errormessage_res);$/;"	v
+errorSeverity	ezSQL-master/mssql/ez_sql_mssql.php	/^					$errorSeverity = $errorMessage_Row[0];$/;"	v
+errorSeverity	ezSQL-master/sybase/ez_sql_sybase.php	/^					$errorSeverity = $errorMessage_Row[0];$/;"	v
+error_res	ezSQL-master/mssql/ez_sql_mssql.php	/^				$error_res = @mssql_query($get_errorcodeSql, $this->dbh);$/;"	v
+error_res	ezSQL-master/sybase/ez_sql_sybase.php	/^				$error_res = @sybase_query($get_errorcodeSql, $this->dbh);$/;"	v
+error_str	ezSQL-master/pdo/ez_sql_pdo.php	/^				$error_str = '';$/;"	v
+error_str	ezSQL-master/pdo/ez_sql_pdo.php	/^				$error_str = substr($error_str,0,-2);$/;"	v
+error_str	ezSQL-master/pdo/ez_sql_pdo.php	/^			$error_str = 'No error info';$/;"	v
+errormessage_res	ezSQL-master/mssql/ez_sql_mssql.php	/^				$errormessage_res =  @mssql_query($get_errorMessageSql, $this->dbh);$/;"	v
+errormessage_res	ezSQL-master/sybase/ez_sql_sybase.php	/^				$errormessage_res =  @sybase_query($get_errorMessageSql, $this->dbh);$/;"	v
+errors	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^				$errors = sqlsrv_errors();$/;"	v
+escape	ezSQL-master/codeigniter/Ezsql_codeigniter.php	/^		function escape($str, $like = FALSE)$/;"	f
+escape	ezSQL-master/cubrid/ez_sql_cubrid.php	/^		function escape($str)$/;"	f
+escape	ezSQL-master/mssql/ez_sql_mssql.php	/^		function escape($str)$/;"	f
+escape	ezSQL-master/mysql/ez_sql_mysql.php	/^		function escape($str)$/;"	f
+escape	ezSQL-master/mysqli/ez_sql_mysqli.php	/^		function escape($str)$/;"	f
+escape	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^		function escape($str)$/;"	f
+escape	ezSQL-master/pdo/ez_sql_pdo.php	/^		function escape($str)$/;"	f
+escape	ezSQL-master/postgresql/ez_sql_postgresql.php	/^		function escape($str)$/;"	f
+escape	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^		function escape()$/;"	f
+escape	ezSQL-master/shared/ez_sql_core_202console.php	/^		function escape()$/;"	f
+escape	ezSQL-master/sqlite/ez_sql_sqlite.php	/^		function escape($str)$/;"	f
+escape	ezSQL-master/sqlite/ez_sql_sqlite3.php	/^		function escape($str)$/;"	f
+escape	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^		function escape($str)$/;"	f
+escape	ezSQL-master/sybase/ez_sql_sybase.php	/^		function escape($str)$/;"	f
+ezSQL_codeigniter	ezSQL-master/codeigniter/Ezsql_codeigniter.php	/^	class ezSQL_codeigniter extends ezSQLcore$/;"	c
+ezSQL_cubrid	ezSQL-master/cubrid/ez_sql_cubrid.php	/^		function ezSQL_cubrid($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost', $dbport=33000)$/;"	f
+ezSQL_cubrid	ezSQL-master/cubrid/ez_sql_cubrid.php	/^	class ezSQL_cubrid extends ezSQLcore$/;"	c
+ezSQL_cubrid_str	ezSQL-master/cubrid/ez_sql_cubrid.php	/^	$ezSQL_cubrid_str = array$/;"	v
+ezSQL_mssql	ezSQL-master/mssql/ez_sql_mssql.php	/^		function ezSQL_mssql($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost', $convertMySqlToMSSqlQuery=true)$/;"	f
+ezSQL_mssql	ezSQL-master/mssql/ez_sql_mssql.php	/^	class ezSQL_mssql extends ezSQLcore$/;"	c
+ezSQL_mysql	ezSQL-master/mysql/ez_sql_mysql.php	/^		function ezSQL_mysql($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost', $encoding='')$/;"	f
+ezSQL_mysql	ezSQL-master/mysql/ez_sql_mysql.php	/^	class ezSQL_mysql extends ezSQLcore$/;"	c
+ezSQL_mysqli	ezSQL-master/mysqli/ez_sql_mysqli.php	/^		function ezSQL_mysqli($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost', $encoding='')$/;"	f
+ezSQL_mysqli	ezSQL-master/mysqli/ez_sql_mysqli.php	/^	class ezSQL_mysqli extends ezSQLcore$/;"	c
+ezSQL_oracle8_9	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^		function ezSQL_oracle8_9($dbuser='', $dbpassword='', $dbname='')$/;"	f
+ezSQL_oracle8_9	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^	class ezSQL_oracle8_9 extends ezSQLcore$/;"	c
+ezSQL_pdo	ezSQL-master/pdo/ez_sql_pdo.php	/^		function ezSQL_pdo($dsn='', $user='', $password='', $ssl=array())$/;"	f
+ezSQL_pdo	ezSQL-master/pdo/ez_sql_pdo.php	/^	class ezSQL_pdo extends ezSQLcore$/;"	c
+ezSQL_postgresql	ezSQL-master/postgresql/ez_sql_postgresql.php	/^		function ezSQL_postgresql($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost', $port='5432')$/;"	f
+ezSQL_postgresql	ezSQL-master/postgresql/ez_sql_postgresql.php	/^	class ezSQL_postgresql extends ezSQLcore$/;"	c
+ezSQL_sqlite	ezSQL-master/sqlite/ez_sql_sqlite.php	/^		function ezSQL_sqlite($dbpath='', $dbname='')$/;"	f
+ezSQL_sqlite	ezSQL-master/sqlite/ez_sql_sqlite.php	/^	class ezSQL_sqlite extends ezSQLcore$/;"	c
+ezSQL_sqlite3	ezSQL-master/sqlite/ez_sql_sqlite3.php	/^		function ezSQL_sqlite3($dbpath='', $dbname='')$/;"	f
+ezSQL_sqlite3	ezSQL-master/sqlite/ez_sql_sqlite3.php	/^	class ezSQL_sqlite3 extends ezSQLcore$/;"	c
+ezSQL_sqlsrv	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^		function ezSQL_sqlsrv($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost', $convertMySqlToMSSqlQuery=true)$/;"	f
+ezSQL_sqlsrv	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^	class ezSQL_sqlsrv extends ezSQLcore$/;"	c
+ezSQL_sybase	ezSQL-master/sybase/ez_sql_sybase.php	/^		function ezSQL_sybase($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost', $convertMySqlTosybaseQuery=true)$/;"	f
+ezSQL_sybase	ezSQL-master/sybase/ez_sql_sybase.php	/^	class ezSQL_sybase extends ezSQLcore$/;"	c
+ezSQLcore	ezSQL-master/shared/ez_sql_core.php	/^		function ezSQLcore()$/;"	f
+ezSQLcore	ezSQL-master/shared/ez_sql_core.php	/^	class ezSQLcore$/;"	c
+ezSQLcore	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^		function ezSQLcore()$/;"	f
+ezSQLcore	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^	class ezSQLcore$/;"	c
+ezSQLcore	ezSQL-master/shared/ez_sql_core_202console.php	/^		function ezSQLcore()$/;"	f
+ezSQLcore	ezSQL-master/shared/ez_sql_core_202console.php	/^	class ezSQLcore$/;"	c
+ezconsole	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^\/\/ == TJH ==  USAGE:     $ezconsole = print_r($db->console,true);		$/;"	v
+ezconsole	ezSQL-master/shared/ez_sql_core_202console.php	/^\/\/ == TJH ==  USAGE:     $ezconsole = print_r($db->console,true);		$/;"	v
+ezdebug	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^		\/\/ === TJH ===    USAGE:     $ezdebug = print_r($db->vardump($result),true);		$/;"	v
+ezdebug	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^\/\/ === TJH ===          $ezdebug = print_r($db->console,true);		$/;"	v
+ezdebug	ezSQL-master/shared/ez_sql_core_202console.php	/^		\/\/ === TJH ===    USAGE:     $ezdebug = print_r($db->vardump($result),true);		$/;"	v
+ezdump	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^\/\/ == TJH ==  USAGE:     $ezdump = print_r($db->vardump($result),true);		$/;"	v
+ezdump	ezSQL-master/shared/ez_sql_core_202console.php	/^\/\/ == TJH ==  USAGE:     $ezdump = print_r($db->vardump($result),true);		$/;"	v
+ezsql_mssql_str	ezSQL-master/mssql/ez_sql_mssql.php	/^	$ezsql_mssql_str = array$/;"	v
+ezsql_mysql_str	ezSQL-master/mysql/ez_sql_mysql.php	/^	$ezsql_mysql_str = array$/;"	v
+ezsql_mysqli_str	ezSQL-master/mysqli/ez_sql_mysqli.php	/^	$ezsql_mysqli_str = array$/;"	v
+ezsql_oracle8_9_str	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^	$ezsql_oracle8_9_str = array$/;"	v
+ezsql_pdo_str	ezSQL-master/pdo/ez_sql_pdo.php	/^	$ezsql_pdo_str = array$/;"	v
+ezsql_postgresql_str	ezSQL-master/postgresql/ez_sql_postgresql.php	/^	$ezsql_postgresql_str = array$/;"	v
+ezsql_sqlite3_str	ezSQL-master/sqlite/ez_sql_sqlite3.php	/^	$ezsql_sqlite3_str = array$/;"	v
+ezsql_sqlite_str	ezSQL-master/sqlite/ez_sql_sqlite.php	/^	$ezsql_sqlite_str = array$/;"	v
+ezsql_sqlsrv_str	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^	$ezsql_sqlsrv_str = array$/;"	v
+ezsql_sqlsrv_type2str_non_dup	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^	$ezsql_sqlsrv_type2str_non_dup = array$/;"	v
+ezsql_sybase_str	ezSQL-master/sybase/ez_sql_sybase.php	/^	$ezsql_sybase_str = array$/;"	v
+fids_arr	UserManager.php	/^        $this->fids_arr = $this->db->get_results("SELECT * FROM net where `uid`=\\"$uid\\"");$/;"	v
+fids_arr	UserManager.php	/^    private $fids_arr; \/\/已经登录的UID对应的fid$/;"	v
+field	ezSQL-master/shared/ez_sql_core.php	/^			foreach ( $params as $field => $val )$/;"	v
+flush	ezSQL-master/shared/ez_sql_core.php	/^		function flush()$/;"	f
+flush	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^		function flush()$/;"	f
+flush	ezSQL-master/shared/ez_sql_core_202console.php	/^		function flush()$/;"	f
+from_disk_cache	ezSQL-master/shared/ez_sql_core.php	/^					$this->from_disk_cache = true;$/;"	v
+from_disk_cache	ezSQL-master/shared/ez_sql_core.php	/^			$this->from_disk_cache = false;$/;"	v
+from_disk_cache	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^			$this->from_disk_cache = false;$/;"	v
+from_disk_cache	ezSQL-master/shared/ez_sql_core_202console.php	/^					$this->from_disk_cache = true;$/;"	v
+from_disk_cache	ezSQL-master/shared/ez_sql_core_202console.php	/^			$this->from_disk_cache = false;$/;"	v
+func_call	ezSQL-master/codeigniter/Ezsql_codeigniter.php	/^			$this->func_call = "\\$db->query(\\"$query\\")";$/;"	v
+func_call	ezSQL-master/cubrid/ez_sql_cubrid.php	/^			$this->func_call = "\\$db->query(\\"$query\\")";$/;"	v
+func_call	ezSQL-master/mssql/ez_sql_mssql.php	/^			$this->func_call = "\\$db->query(\\"$query\\")";$/;"	v
+func_call	ezSQL-master/mysql/ez_sql_mysql.php	/^			$this->func_call = "\\$db->query(\\"$query\\")";$/;"	v
+func_call	ezSQL-master/mysqli/ez_sql_mysqli.php	/^			$this->func_call = "\\$db->query(\\"$query\\")";$/;"	v
+func_call	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^			$this->func_call = "\\$db->query(\\"$query\\")";$/;"	v
+func_call	ezSQL-master/pdo/ez_sql_pdo.php	/^			$this->func_call = "\\$db->query(\\"$query\\")";$/;"	v
+func_call	ezSQL-master/postgresql/ez_sql_postgresql.php	/^			$this->func_call = "\\$db->query(\\"$query\\")";$/;"	v
+func_call	ezSQL-master/shared/ez_sql_core.php	/^			$this->func_call = "\\$db->get_results(\\"$query\\", $output)";$/;"	v
+func_call	ezSQL-master/shared/ez_sql_core.php	/^			$this->func_call = "\\$db->get_row(\\"$query\\",$output,$y)";$/;"	v
+func_call	ezSQL-master/shared/ez_sql_core.php	/^			$this->func_call = "\\$db->get_var(\\"$query\\",$x,$y)";$/;"	v
+func_call	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^			$this->func_call = "\\$db->get_results(\\"$query\\", $output)";$/;"	v
+func_call	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^			$this->func_call = "\\$db->get_row(\\"$query\\",$output,$y)";$/;"	v
+func_call	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^			$this->func_call = "\\$db->get_var(\\"$query\\",$x,$y)";$/;"	v
+func_call	ezSQL-master/shared/ez_sql_core_202console.php	/^			$this->func_call = "\\$db->get_results(\\"$query\\", $output)";$/;"	v
+func_call	ezSQL-master/shared/ez_sql_core_202console.php	/^			$this->func_call = "\\$db->get_row(\\"$query\\",$output,$y)";$/;"	v
+func_call	ezSQL-master/shared/ez_sql_core_202console.php	/^			$this->func_call = "\\$db->get_var(\\"$query\\",$x,$y)";$/;"	v
+func_call	ezSQL-master/sqlite/ez_sql_sqlite.php	/^			$this->func_call = "\\$db->query(\\"$query\\")";$/;"	v
+func_call	ezSQL-master/sqlite/ez_sql_sqlite3.php	/^			$this->func_call = "\\$db->query(\\"$query\\")";$/;"	v
+func_call	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^			$this->func_call = "\\$db->query(\\"$query\\")";$/;"	v
+func_call	ezSQL-master/sybase/ez_sql_sybase.php	/^			$this->func_call = "\\$db->query(\\"$query\\")";$/;"	v
+get_cache	ezSQL-master/shared/ez_sql_core.php	/^		function get_cache($query)$/;"	f
+get_cache	ezSQL-master/shared/ez_sql_core_202console.php	/^		function get_cache($query)$/;"	f
+get_col	ezSQL-master/shared/ez_sql_core.php	/^		function get_col($query=null,$x=0)$/;"	f
+get_col	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^		function get_col($query=null,$x=0)$/;"	f
+get_col	ezSQL-master/shared/ez_sql_core_202console.php	/^		function get_col($query=null,$x=0)$/;"	f
+get_col_info	ezSQL-master/shared/ez_sql_core.php	/^		function get_col_info($info_type="name",$col_offset=-1)$/;"	f
+get_col_info	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^		function get_col_info($info_type="name",$col_offset=-1)$/;"	f
+get_col_info	ezSQL-master/shared/ez_sql_core_202console.php	/^		function get_col_info($info_type="name",$col_offset=-1)$/;"	f
+get_datatype	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^		function get_datatype($col)$/;"	f
+get_errorMessageSql	ezSQL-master/mssql/ez_sql_mssql.php	/^				$get_errorMessageSql = "SELECT severity as errorSeverity, text as errorText FROM sys.messages  WHERE message_id = ".$errorCode  ;$/;"	v
+get_errorMessageSql	ezSQL-master/sybase/ez_sql_sybase.php	/^				$get_errorMessageSql = "SELECT severity as errorSeverity, text as errorText FROM sys.messages  WHERE message_id = ".$errorCode  ;$/;"	v
+get_errorcodeSql	ezSQL-master/mssql/ez_sql_mssql.php	/^				$get_errorcodeSql = "SELECT @@ERROR as errorcode";$/;"	v
+get_errorcodeSql	ezSQL-master/sybase/ez_sql_sybase.php	/^				$get_errorcodeSql = "SELECT @@ERROR as errorcode";$/;"	v
+get_host_port	ezSQL-master/shared/ez_sql_core.php	/^		function get_host_port( $host, $default = false )$/;"	f
+get_results	ezSQL-master/shared/ez_sql_core.php	/^		function get_results($query=null, $output = OBJECT)$/;"	f
+get_results	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^		function get_results($query=null, $output = OBJECT)$/;"	f
+get_results	ezSQL-master/shared/ez_sql_core_202console.php	/^		function get_results($query=null, $output = OBJECT)$/;"	f
+get_row	ezSQL-master/shared/ez_sql_core.php	/^		function get_row($query=null,$output=OBJECT,$y=0)$/;"	f
+get_row	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^		function get_row($query=null,$output=OBJECT,$y=0)$/;"	f
+get_row	ezSQL-master/shared/ez_sql_core_202console.php	/^		function get_row($query=null,$output=OBJECT,$y=0)$/;"	f
+get_set	ezSQL-master/shared/ez_sql_core.php	/^		function get_set($params)$/;"	f
+get_var	ezSQL-master/shared/ez_sql_core.php	/^		function get_var($query=null,$x=0,$y=0)$/;"	f
+get_var	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^		function get_var($query=null,$x=0,$y=0)$/;"	f
+get_var	ezSQL-master/shared/ez_sql_core_202console.php	/^		function get_var($query=null,$x=0,$y=0)$/;"	f
+hide_errors	ezSQL-master/shared/ez_sql_core.php	/^		function hide_errors()$/;"	f
+hide_errors	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^		function hide_errors()$/;"	f
+hide_errors	ezSQL-master/shared/ez_sql_core_202console.php	/^		function hide_errors()$/;"	f
+host	ControlJSONRPC.php	/^        $host = "localhost";  $/;"	v
+html	ezSQL-master/shared/ez_sql_core.php	/^			$html = ob_get_contents();$/;"	v
+i	ezSQL-master/codeigniter/Ezsql_codeigniter.php	/^							$i=0;$/;"	v
+i	ezSQL-master/cubrid/ez_sql_cubrid.php	/^				$i=0;$/;"	v
+i	ezSQL-master/mssql/ez_sql_mssql.php	/^				$i=0;$/;"	v
+i	ezSQL-master/mysql/ez_sql_mysql.php	/^				$i=0;$/;"	v
+i	ezSQL-master/mysqli/ez_sql_mysqli.php	/^				$i=0;$/;"	v
+i	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^	    			for ( $i = 1; $i <= $num_cols; $i++ )$/;"	v
+i	ezSQL-master/pdo/ez_sql_pdo.php	/^				for ( $i=0 ; $i < $col_count ; $i++ )$/;"	v
+i	ezSQL-master/postgresql/ez_sql_postgresql.php	/^							$i=0;$/;"	v
+i	ezSQL-master/shared/ez_sql_core.php	/^					$i=0;$/;"	v
+i	ezSQL-master/shared/ez_sql_core.php	/^				$i=0;$/;"	v
+i	ezSQL-master/shared/ez_sql_core.php	/^				for ( $i=0; $i < count($this->col_info); $i++ )$/;"	v
+i	ezSQL-master/shared/ez_sql_core.php	/^			for ( $i=0; $i < count($this->last_result); $i++ )$/;"	v
+i	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^					$i=0;$/;"	v
+i	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^				$i=0;$/;"	v
+i	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^				for ( $i=0; $i < count($this->col_info); $i++ )$/;"	v
+i	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^			for ( $i=0; $i < count($this->last_result); $i++ )$/;"	v
+i	ezSQL-master/shared/ez_sql_core_202console.php	/^					$i=0;$/;"	v
+i	ezSQL-master/shared/ez_sql_core_202console.php	/^				$i=0;$/;"	v
+i	ezSQL-master/shared/ez_sql_core_202console.php	/^				for ( $i=0; $i < count($this->col_info); $i++ )$/;"	v
+i	ezSQL-master/shared/ez_sql_core_202console.php	/^			for ( $i=0; $i < count($this->last_result); $i++ )$/;"	v
+i	ezSQL-master/sqlite/ez_sql_sqlite.php	/^				$i=0;$/;"	v
+i	ezSQL-master/sqlite/ez_sql_sqlite3.php	/^				$i=0;$/;"	v
+i	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^				$i=0;$/;"	v
+i	ezSQL-master/sybase/ez_sql_sybase.php	/^				$i=0;$/;"	v
+identityresultset	ezSQL-master/mssql/ez_sql_mssql.php	/^					$identityresultset = @mssql_query("select SCOPE_IDENTITY()");$/;"	v
+identityresultset	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^					$identityresultset = @sqlsrv_query($this->dbh, "select SCOPE_IDENTITY()");$/;"	v
+identityresultset	ezSQL-master/sybase/ez_sql_sybase.php	/^					$identityresultset = @sybase_query("select SCOPE_IDENTITY()");$/;"	v
+identityrow	ezSQL-master/mssql/ez_sql_mssql.php	/^						$identityrow = @mssql_fetch_row($identityresultset);$/;"	v
+identityrow	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^						$identityrow = @sqlsrv_fetch($identityresultset);$/;"	v
+identityrow	ezSQL-master/sybase/ez_sql_sybase.php	/^						$identityrow = @sybase_fetch_row($identityresultset);$/;"	v
+included	ezSQL-master/cubrid/ez_sql_cubrid.php	/^		*  once again, function included for the sake of consistency$/;"	f
+included	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^		*  once again, function included for the sake of consistency$/;"	f
+included	ezSQL-master/pdo/ez_sql_pdo.php	/^		*  once again, function included for the sake of consistency$/;"	f
+included	ezSQL-master/postgresql/ez_sql_postgresql.php	/^		*  once again, function included for the sake of consistency$/;"	f
+included	ezSQL-master/sqlite/ez_sql_sqlite.php	/^		*  once again, function included for the sake of consistency$/;"	f
+included	ezSQL-master/sqlite/ez_sql_sqlite3.php	/^		*  once again, function included for the sake of consistency$/;"	f
+insert_id	ezSQL-master/codeigniter/Ezsql_codeigniter.php	/^					$this->insert_id = $this->CI->db->insert_id();$/;"	v
+insert_id	ezSQL-master/cubrid/ez_sql_cubrid.php	/^					$this->insert_id = @cubrid_insert_id($this->dbh);$/;"	v
+insert_id	ezSQL-master/mssql/ez_sql_mssql.php	/^						$this->insert_id = $identityrow[0];$/;"	v
+insert_id	ezSQL-master/mysql/ez_sql_mysql.php	/^					$this->insert_id = @mysql_insert_id($this->dbh);$/;"	v
+insert_id	ezSQL-master/mysqli/ez_sql_mysqli.php	/^					$this->insert_id = @$this->dbh->insert_id;$/;"	v
+insert_id	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^		function insert_id($seq_name)$/;"	f
+insert_id	ezSQL-master/pdo/ez_sql_pdo.php	/^					$this->insert_id = @$this->dbh->lastInsertId();	$/;"	v
+insert_id	ezSQL-master/postgresql/ez_sql_postgresql.php	/^					$this->insert_id = $insert_row[0];$/;"	v
+insert_id	ezSQL-master/sqlite/ez_sql_sqlite.php	/^					$this->insert_id = @sqlite_last_insert_rowid($this->dbh);	$/;"	v
+insert_id	ezSQL-master/sqlite/ez_sql_sqlite3.php	/^					$this->insert_id = @$this->dbh->lastInsertRowID();	$/;"	v
+insert_id	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^						$this->insert_id = $identityrow[0];$/;"	v
+insert_id	ezSQL-master/sybase/ez_sql_sybase.php	/^						$this->insert_id = $identityrow[0];$/;"	v
+insert_query	ezSQL-master/postgresql/ez_sql_postgresql.php	/^					$insert_query = pg_query("SELECT lastval();");$/;"	v
+insert_row	ezSQL-master/postgresql/ez_sql_postgresql.php	/^					$insert_row = pg_fetch_row($insert_query);$/;"	v
+is	ezSQL-master/mssql/ez_sql_mssql.php	/^		   3. unix_timestamp function is removed.$/;"	f
+is	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^		\/\/ === TJH ===  The debug() function is now hacked to OPTIOANLLY create a return result 			$/;"	f
+is	ezSQL-master/shared/ez_sql_core_202console.php	/^		\/\/ === TJH ===  The debug() function is now hacked to OPTIOANLLY create a return result 			$/;"	f
+is	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^		   3. unix_timestamp function is removed.$/;"	f
+is	ezSQL-master/sybase/ez_sql_sybase.php	/^		   3. unix_timestamp function is removed.$/;"	f
+is_equal_int	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^		function is_equal_int($int)$/;"	f
+is_equal_str	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^		function is_equal_str($str='')$/;"	f
+is_insert	ezSQL-master/codeigniter/Ezsql_codeigniter.php	/^				$is_insert = false;$/;"	v
+is_insert	ezSQL-master/codeigniter/Ezsql_codeigniter.php	/^				$is_insert = true;$/;"	v
+is_insert	ezSQL-master/cubrid/ez_sql_cubrid.php	/^				$is_insert = false;$/;"	v
+is_insert	ezSQL-master/cubrid/ez_sql_cubrid.php	/^				$is_insert = true;$/;"	v
+is_insert	ezSQL-master/mssql/ez_sql_mssql.php	/^				$is_insert = false;$/;"	v
+is_insert	ezSQL-master/mssql/ez_sql_mssql.php	/^				$is_insert = true;$/;"	v
+is_insert	ezSQL-master/mysql/ez_sql_mysql.php	/^				$is_insert = false;$/;"	v
+is_insert	ezSQL-master/mysql/ez_sql_mysql.php	/^				$is_insert = true;$/;"	v
+is_insert	ezSQL-master/mysqli/ez_sql_mysqli.php	/^				$is_insert = false;$/;"	v
+is_insert	ezSQL-master/mysqli/ez_sql_mysqli.php	/^				$is_insert = true;$/;"	v
+is_insert	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^				$is_insert = true;$/;"	v
+is_insert	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^			$is_insert = false;$/;"	v
+is_insert	ezSQL-master/pdo/ez_sql_pdo.php	/^				$is_insert = false;$/;"	v
+is_insert	ezSQL-master/pdo/ez_sql_pdo.php	/^				$is_insert = true;$/;"	v
+is_insert	ezSQL-master/postgresql/ez_sql_postgresql.php	/^				$is_insert = true;$/;"	v
+is_insert	ezSQL-master/postgresql/ez_sql_postgresql.php	/^			$is_insert = false;$/;"	v
+is_insert	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^				$is_insert = true;$/;"	v
+is_insert	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^			$is_insert = false;$/;"	v
+is_insert	ezSQL-master/sybase/ez_sql_sybase.php	/^				$is_insert = true;$/;"	v
+is_insert	ezSQL-master/sybase/ez_sql_sybase.php	/^			$is_insert = false;$/;"	v
+json	ControlJSONRPC.php	/^        $json = array("method"=>$method, "params"=>$params);$/;"	v
+json	ControlJSONRPC.php	/^        $json = json_decode ($_ret, true);$/;"	v
+json	ControlJSONRPC.php	/^        $json = json_encode($array);$/;"	v
+json	UserManager.php	/^    $json = json_encode($arr);$/;"	v
+k	ezSQL-master/codeigniter/Ezsql_codeigniter.php	/^							foreach ( get_object_vars($row) as $k => $v )$/;"	v
+last_error	ezSQL-master/shared/ez_sql_core.php	/^			$this->last_error = $err_str;$/;"	v
+last_error	ezSQL-master/shared/ez_sql_core.php	/^		var $last_error       = null;$/;"	v
+last_error	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^			$this->last_error = $err_str;$/;"	v
+last_error	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^		var $last_error      = null;$/;"	v
+last_error	ezSQL-master/shared/ez_sql_core_202console.php	/^			$this->last_error = $err_str;$/;"	v
+last_error	ezSQL-master/shared/ez_sql_core_202console.php	/^		var $last_error      = null;$/;"	v
+last_query	ezSQL-master/codeigniter/Ezsql_codeigniter.php	/^			$this->last_query = $query;$/;"	v
+last_query	ezSQL-master/cubrid/ez_sql_cubrid.php	/^			$this->last_query = $query;$/;"	v
+last_query	ezSQL-master/mssql/ez_sql_mssql.php	/^			$this->last_query = $query;$/;"	v
+last_query	ezSQL-master/mysql/ez_sql_mysql.php	/^			$this->last_query = $query;$/;"	v
+last_query	ezSQL-master/mysqli/ez_sql_mysqli.php	/^			$this->last_query = $query;$/;"	v
+last_query	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^			$this->last_query = $query;$/;"	v
+last_query	ezSQL-master/pdo/ez_sql_pdo.php	/^			$this->last_query = $query;$/;"	v
+last_query	ezSQL-master/postgresql/ez_sql_postgresql.php	/^			$this->last_query = $query;$/;"	v
+last_query	ezSQL-master/shared/ez_sql_core.php	/^			$this->last_query = null;$/;"	v
+last_query	ezSQL-master/shared/ez_sql_core.php	/^		var $last_query       = null;$/;"	v
+last_query	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^			$this->last_query = null;$/;"	v
+last_query	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^		var $last_query      = null;$/;"	v
+last_query	ezSQL-master/shared/ez_sql_core_202console.php	/^			$this->last_query = null;$/;"	v
+last_query	ezSQL-master/shared/ez_sql_core_202console.php	/^		var $last_query      = null;$/;"	v
+last_query	ezSQL-master/sqlite/ez_sql_sqlite.php	/^			$this->last_query = $query;$/;"	v
+last_query	ezSQL-master/sqlite/ez_sql_sqlite3.php	/^			$this->last_query = $query;$/;"	v
+last_query	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^			$this->last_query = $query;$/;"	v
+last_query	ezSQL-master/sybase/ez_sql_sybase.php	/^			$this->last_query = $query;$/;"	v
+last_result	ezSQL-master/shared/ez_sql_core.php	/^					$this->last_result = $result_cache['last_result'];$/;"	v
+last_result	ezSQL-master/shared/ez_sql_core.php	/^			$this->last_result = null;$/;"	v
+last_result	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^			$this->last_result = null;$/;"	v
+last_result	ezSQL-master/shared/ez_sql_core_202console.php	/^					$this->last_result = $result_cache['last_result'];$/;"	v
+last_result	ezSQL-master/shared/ez_sql_core_202console.php	/^			$this->last_result = null;$/;"	v
+like	ezSQL-master/codeigniter/Ezsql_codeigniter.php	/^			return $this->CI->db->escape_str(stripslashes($str), $like = FALSE);$/;"	v
+like	ezSQL-master/codeigniter/Ezsql_codeigniter.php	/^		function escape($str, $like = FALSE)$/;"	v
+limit_str	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^			$limit_str = "\/LIMIT[^\\w]{1,}([0-9]{1,})([\\,]{0,})([0-9]{0,})\/i";$/;"	v
+meta	ezSQL-master/pdo/ez_sql_pdo.php	/^					if ( $meta = $sth->getColumnMeta($i) )$/;"	v
+method	ControlJSONRPC.php	/^        $method = "closefd";$/;"	v
+my_tables	ezSQL-master/cubrid/demo.php	/^	$my_tables = $db->get_results("SHOW TABLES",ARRAY_N);$/;"	v
+my_tables	ezSQL-master/mssql/demo.php	/^	$my_tables = $db->get_results("select name from ".$db_name."..sysobjects where xtype = 'U'",ARRAY_N);$/;"	v
+my_tables	ezSQL-master/mysql/demo.php	/^	$my_tables = $db->get_results("SHOW TABLES",ARRAY_N);$/;"	v
+my_tables	ezSQL-master/mysqli/demo.php	/^	$my_tables = $db->get_results("SHOW TABLES",ARRAY_N);$/;"	v
+my_tables	ezSQL-master/oracle8_9/demo.php	/^	$my_tables = $db->get_results("SELECT TABLE_NAME FROM USER_TABLES",ARRAY_N);$/;"	v
+my_tables	ezSQL-master/pdo/demo_pdo_for_mysql.php	/^	$my_tables = $db->get_results("SHOW TABLES",ARRAY_N);$/;"	v
+my_tables	ezSQL-master/postgresql/demo.php	/^	$my_tables = $db->get_results("SELECT " . $db->showTables(), ARRAY_N);$/;"	v
+my_tables	ezSQL-master/sqlite/demo.php	/^	$my_tables = $db->get_results("SELECT * FROM sqlite_master WHERE sql NOTNULL;");$/;"	v
+my_tables	ezSQL-master/sqlsrv/demo.php	/^	$my_tables = $db->get_results("select name from ".$db_name."..sysobjects where xtype = 'U'",ARRAY_N);$/;"	v
+name	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^						$name = strtolower($name);$/;"	v
+name	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^						else if ($name == "type") $name = "typeid";$/;"	v
+name	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^						if ($name == "size") $name = "max_length";$/;"	v
+name	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^					foreach ($field as $name => $value) {$/;"	v
+new_array	ezSQL-master/shared/ez_sql_core.php	/^			$new_array = array();$/;"	v
+num_cols	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^				if ( $num_cols = @OCINumCols($stmt) )$/;"	v
+num_queries	ezSQL-master/mysql/ez_sql_mysql.php	/^				$this->num_queries = 0;$/;"	v
+num_queries	ezSQL-master/shared/ez_sql_core.php	/^		var $num_queries      = 0;$/;"	v
+num_queries	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^		var $num_queries     = 0;$/;"	v
+num_queries	ezSQL-master/shared/ez_sql_core_202console.php	/^		var $num_queries     = 0;$/;"	v
+num_rows	ezSQL-master/codeigniter/Ezsql_codeigniter.php	/^						if ( $num_rows == 0 )$/;"	v
+num_rows	ezSQL-master/codeigniter/Ezsql_codeigniter.php	/^				$num_rows=0;$/;"	v
+num_rows	ezSQL-master/cubrid/ez_sql_cubrid.php	/^				$num_rows=0;$/;"	v
+num_rows	ezSQL-master/cubrid/ez_sql_cubrid.php	/^				$this->num_rows = $num_rows;$/;"	v
+num_rows	ezSQL-master/mssql/ez_sql_mssql.php	/^				$num_rows=0;$/;"	v
+num_rows	ezSQL-master/mssql/ez_sql_mssql.php	/^				$this->num_rows = $num_rows;$/;"	v
+num_rows	ezSQL-master/mysql/ez_sql_mysql.php	/^				$num_rows=0;$/;"	v
+num_rows	ezSQL-master/mysql/ez_sql_mysql.php	/^				$this->num_rows = $num_rows;$/;"	v
+num_rows	ezSQL-master/mysqli/ez_sql_mysqli.php	/^				$num_rows=0;$/;"	v
+num_rows	ezSQL-master/mysqli/ez_sql_mysqli.php	/^				$this->num_rows = $num_rows;$/;"	v
+num_rows	ezSQL-master/pdo/ez_sql_pdo.php	/^				$num_rows=0;$/;"	v
+num_rows	ezSQL-master/pdo/ez_sql_pdo.php	/^				$this->num_rows = $num_rows;$/;"	v
+num_rows	ezSQL-master/postgresql/ez_sql_postgresql.php	/^				$this->num_rows = $num_rows;$/;"	v
+num_rows	ezSQL-master/postgresql/ez_sql_postgresql.php	/^			{               $num_rows=0;$/;"	v
+num_rows	ezSQL-master/shared/ez_sql_core.php	/^					$this->num_rows = $result_cache['num_rows'];$/;"	v
+num_rows	ezSQL-master/shared/ez_sql_core_202console.php	/^					$this->num_rows = $result_cache['num_rows'];$/;"	v
+num_rows	ezSQL-master/sqlite/ez_sql_sqlite.php	/^				$num_rows=0;$/;"	v
+num_rows	ezSQL-master/sqlite/ez_sql_sqlite.php	/^				$this->num_rows = $num_rows;$/;"	v
+num_rows	ezSQL-master/sqlite/ez_sql_sqlite3.php	/^				$num_rows=0;$/;"	v
+num_rows	ezSQL-master/sqlite/ez_sql_sqlite3.php	/^				$this->num_rows = $num_rows;$/;"	v
+num_rows	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^				$num_rows=0;$/;"	v
+num_rows	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^				$this->num_rows = $num_rows;$/;"	v
+num_rows	ezSQL-master/sybase/ez_sql_sybase.php	/^				$num_rows=0;$/;"	v
+num_rows	ezSQL-master/sybase/ez_sql_sybase.php	/^				$this->num_rows = $num_rows;$/;"	v
+obj	ezSQL-master/sqlite/ez_sql_sqlite.php	/^					$obj= (object) $row; \/\/convert to object$/;"	v
+obj	ezSQL-master/sqlite/ez_sql_sqlite3.php	/^					$obj= (object) $row; \/\/convert to object$/;"	v
+output	ezSQL-master/shared/ez_sql_core.php	/^						if ( $output == ARRAY_N )$/;"	v
+output	ezSQL-master/shared/ez_sql_core.php	/^			elseif ( $output == ARRAY_A )$/;"	v
+output	ezSQL-master/shared/ez_sql_core.php	/^			elseif ( $output == ARRAY_A || $output == ARRAY_N )$/;"	v
+output	ezSQL-master/shared/ez_sql_core.php	/^			elseif ( $output == ARRAY_N )$/;"	v
+output	ezSQL-master/shared/ez_sql_core.php	/^			if ( $output == OBJECT )$/;"	v
+output	ezSQL-master/shared/ez_sql_core.php	/^		function get_results($query=null, $output = OBJECT)$/;"	v
+output	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^						if ( $output == ARRAY_N )$/;"	v
+output	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^			elseif ( $output == ARRAY_A )$/;"	v
+output	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^			elseif ( $output == ARRAY_A || $output == ARRAY_N )$/;"	v
+output	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^			elseif ( $output == ARRAY_N )$/;"	v
+output	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^			if ( $output == OBJECT )$/;"	v
+output	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^		function get_results($query=null, $output = OBJECT)$/;"	v
+output	ezSQL-master/shared/ez_sql_core_202console.php	/^						if ( $output == ARRAY_N )$/;"	v
+output	ezSQL-master/shared/ez_sql_core_202console.php	/^			elseif ( $output == ARRAY_A )$/;"	v
+output	ezSQL-master/shared/ez_sql_core_202console.php	/^			elseif ( $output == ARRAY_A || $output == ARRAY_N )$/;"	v
+output	ezSQL-master/shared/ez_sql_core_202console.php	/^			elseif ( $output == ARRAY_N )$/;"	v
+output	ezSQL-master/shared/ez_sql_core_202console.php	/^			if ( $output == OBJECT )$/;"	v
+output	ezSQL-master/shared/ez_sql_core_202console.php	/^		function get_results($query=null, $output = OBJECT)$/;"	v
+parameter	ezSQL-master/mssql/ez_sql_mssql.php	/^			\/\/we can get the Unix Time function parameter value from this string$/;"	f
+parameter	ezSQL-master/sybase/ez_sql_sybase.php	/^			\/\/we can get the Unix Time function parameter value from this string$/;"	f
+params	ControlJSONRPC.php	/^        $params = array("fid"=>$fid);$/;"	v
+password	ezSQL-master/pdo/ez_sql_pdo.php	/^		var $password;$/;"	v
+pattern	ezSQL-master/mssql/ez_sql_mssql.php	/^			$pattern = "FROM_UNIXTIME\\(([^\/]{0,})\\)";$/;"	v
+pattern	ezSQL-master/mssql/ez_sql_mssql.php	/^			$pattern = "LIMIT[^\\w]{1,}([0-9]{1,})([\\,]{0,})([0-9]{0,})";$/;"	v
+pattern	ezSQL-master/mssql/ez_sql_mssql.php	/^			$pattern = "unix_timestamp\\(([^\/]{0,})\\)";$/;"	v
+pattern	ezSQL-master/sybase/ez_sql_sybase.php	/^			$pattern = "\/FROM_UNIXTIME\\(([^\\\/]{0,})\\)\/i";$/;"	v
+pattern	ezSQL-master/sybase/ez_sql_sybase.php	/^			$pattern = "\/LIMIT[^\\w]{1,}([0-9]{1,})([\\,]{0,})([0-9]{0,})\/i";$/;"	v
+pattern	ezSQL-master/sybase/ez_sql_sybase.php	/^			$pattern = "\/unix_timestamp\\(([^\\\/]{0,})\\)\/i";$/;"	v
+patterns	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^			$patterns = array($/;"	v
+port	ControlJSONRPC.php	/^        $port = 2014;  $/;"	v
+port	ezSQL-master/postgresql/ez_sql_postgresql.php	/^				$this->port = $port;$/;"	v
+port	ezSQL-master/postgresql/ez_sql_postgresql.php	/^			$this->port = $port;$/;"	v
+port	ezSQL-master/shared/ez_sql_core.php	/^				$port = (int) $port;$/;"	v
+port	ezSQL-master/shared/ez_sql_core.php	/^			$port = $default;$/;"	v
+profile_times	ezSQL-master/shared/ez_sql_core.php	/^		var $profile_times    = array();$/;"	v
+query	ezSQL-master/codeigniter/Ezsql_codeigniter.php	/^			$query = trim($query);$/;"	v
+query	ezSQL-master/codeigniter/Ezsql_codeigniter.php	/^		function query($query)$/;"	f
+query	ezSQL-master/cubrid/ez_sql_cubrid.php	/^			$query = trim($query);$/;"	v
+query	ezSQL-master/cubrid/ez_sql_cubrid.php	/^		function query($query)$/;"	f
+query	ezSQL-master/mssql/ez_sql_mssql.php	/^					$query  = str_ireplace("SELECT ", "SELECT TOP ".$regs[1]." ", $query);$/;"	v
+query	ezSQL-master/mssql/ez_sql_mssql.php	/^				$query = $this->ConvertMySqlToMSSql($query);$/;"	v
+query	ezSQL-master/mssql/ez_sql_mssql.php	/^				$query = str_ireplace("SELECT ", "SELECT TOP ".$regs[3]." ", $query);$/;"	v
+query	ezSQL-master/mssql/ez_sql_mssql.php	/^			$query = eregi_replace($pattern, $replacement, $query);$/;"	v
+query	ezSQL-master/mssql/ez_sql_mssql.php	/^			$query = str_replace("`", "", $query);$/;"	v
+query	ezSQL-master/mssql/ez_sql_mssql.php	/^			$query = trim($query);$/;"	v
+query	ezSQL-master/mssql/ez_sql_mssql.php	/^		function query($query)$/;"	f
+query	ezSQL-master/mysql/ez_sql_mysql.php	/^			$query = trim($query);$/;"	v
+query	ezSQL-master/mysql/ez_sql_mysql.php	/^		function query($query)$/;"	f
+query	ezSQL-master/mysqli/ez_sql_mysqli.php	/^			$query = trim($query);$/;"	v
+query	ezSQL-master/mysqli/ez_sql_mysqli.php	/^		function query($query)$/;"	f
+query	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^		function query($query)$/;"	f
+query	ezSQL-master/pdo/ez_sql_pdo.php	/^			$query = str_replace("\/[\\n\\r]\/",'',trim($query)); $/;"	v
+query	ezSQL-master/pdo/ez_sql_pdo.php	/^		function query($query)$/;"	f
+query	ezSQL-master/postgresql/ez_sql_postgresql.php	/^			$query = trim($query);$/;"	v
+query	ezSQL-master/postgresql/ez_sql_postgresql.php	/^		function query($query)$/;"	f
+query	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^		function query()$/;"	f
+query	ezSQL-master/shared/ez_sql_core_202console.php	/^		function query()$/;"	f
+query	ezSQL-master/sqlite/ez_sql_sqlite.php	/^			$query = str_replace("\/[\\n\\r]\/",'',trim($query)); $/;"	v
+query	ezSQL-master/sqlite/ez_sql_sqlite.php	/^		function query($query)$/;"	f
+query	ezSQL-master/sqlite/ez_sql_sqlite3.php	/^			$query = str_replace("\/[\\n\\r]\/",'',trim($query)); $/;"	v
+query	ezSQL-master/sqlite/ez_sql_sqlite3.php	/^		function query($query)$/;"	f
+query	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^				$query  = str_ireplace("SELECT ", "SELECT TOP ".$regs[1]." ", $query);$/;"	v
+query	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^				$query = $this->ConvertMySqlToMSSql($query);$/;"	v
+query	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^				$query = str_ireplace("SELECT ", "SELECT TOP ".$regs[3]." ", $query);$/;"	v
+query	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^			$query = preg_replace($patterns, $replacements, $query);$/;"	v
+query	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^			$query = str_replace("`", "", $query);$/;"	v
+query	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^			$query = trim($query);$/;"	v
+query	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^		function query($query)$/;"	f
+query	ezSQL-master/sybase/ez_sql_sybase.php	/^					$query  = str_ireplace("SELECT ", "SELECT TOP ".$regs[1]." ", $query);$/;"	v
+query	ezSQL-master/sybase/ez_sql_sybase.php	/^				$query = $this->ConvertMySqlTosybase($query);$/;"	v
+query	ezSQL-master/sybase/ez_sql_sybase.php	/^				$query = str_ireplace("SELECT ", "SELECT TOP ".$regs[3]." ", $query);$/;"	v
+query	ezSQL-master/sybase/ez_sql_sybase.php	/^			$query = preg_replace($pattern, $replacement, $query);$/;"	v
+query	ezSQL-master/sybase/ez_sql_sybase.php	/^			$query = str_replace("`", "", $query);$/;"	v
+query	ezSQL-master/sybase/ez_sql_sybase.php	/^			$query = trim($query);$/;"	v
+query	ezSQL-master/sybase/ez_sql_sybase.php	/^		function query($query)$/;"	f
+quick_connect	ezSQL-master/cubrid/ez_sql_cubrid.php	/^		function quick_connect($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost', $dbport=33000)$/;"	f
+quick_connect	ezSQL-master/mssql/ez_sql_mssql.php	/^		function quick_connect($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost')$/;"	f
+quick_connect	ezSQL-master/mysql/ez_sql_mysql.php	/^		function quick_connect($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost', $encoding='')$/;"	f
+quick_connect	ezSQL-master/mysqli/ez_sql_mysqli.php	/^		function quick_connect($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost', $dbport='3306', $encoding='')$/;"	f
+quick_connect	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^		function quick_connect($dbuser='', $dbpassword='', $dbname='')$/;"	f
+quick_connect	ezSQL-master/pdo/ez_sql_pdo.php	/^		function quick_connect($dsn='', $user='', $password='', $ssl=array())$/;"	f
+quick_connect	ezSQL-master/postgresql/ez_sql_postgresql.php	/^		function quick_connect($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost', $port='5432')$/;"	f
+quick_connect	ezSQL-master/sqlite/ez_sql_sqlite.php	/^		function quick_connect($dbpath='', $dbname='')$/;"	f
+quick_connect	ezSQL-master/sqlite/ez_sql_sqlite3.php	/^		function quick_connect($dbpath='', $dbname='')$/;"	f
+quick_connect	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^		function quick_connect($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost')$/;"	f
+quick_connect	ezSQL-master/sybase/ez_sql_sybase.php	/^		function quick_connect($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost')$/;"	f
+read	ConnectJSONRPC.php	/^    public function read()$/;"	f
+register_error	ezSQL-master/shared/ez_sql_core.php	/^		function register_error($err_str)$/;"	f
+register_error	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^		function register_error($err_str)$/;"	f
+register_error	ezSQL-master/shared/ez_sql_core_202console.php	/^		function register_error($err_str)$/;"	f
+replacement	ezSQL-master/mssql/ez_sql_mssql.php	/^			$replacement = "";$/;"	v
+replacement	ezSQL-master/mssql/ez_sql_mssql.php	/^			$replacement = "\\\\1";$/;"	v
+replacement	ezSQL-master/mssql/ez_sql_mssql.php	/^			$replacement = "getdate()";$/;"	v
+replacement	ezSQL-master/sybase/ez_sql_sybase.php	/^			$replacement = "";$/;"	v
+replacement	ezSQL-master/sybase/ez_sql_sybase.php	/^			$replacement = "\\\\1";$/;"	v
+replacement	ezSQL-master/sybase/ez_sql_sybase.php	/^			$replacement = "getdate()";$/;"	v
+replacements	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^			$replacements = array($/;"	v
+result	ezSQL-master/cubrid/ez_sql_cubrid.php	/^			$this->result = @cubrid_query($query,$this->dbh);$/;"	v
+result	ezSQL-master/mssql/ez_sql_mssql.php	/^			$this->result = @mssql_query($query, $this->dbh);$/;"	v
+result	ezSQL-master/mysql/ez_sql_mysql.php	/^					$result = mysql_query("SHOW CHARACTER SET");$/;"	v
+result	ezSQL-master/mysql/ez_sql_mysql.php	/^			$this->result = @mysql_query($query,$this->dbh);$/;"	v
+result	ezSQL-master/mysqli/ez_sql_mysqli.php	/^					$result = $this->dbh->query("SHOW CHARACTER SET");$/;"	v
+result	ezSQL-master/mysqli/ez_sql_mysqli.php	/^			$this->result = @$this->dbh->query($query);$/;"	v
+result	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^			elseif ( ! $this->result = OCIExecute($stmt))$/;"	v
+result	ezSQL-master/postgresql/ez_sql_postgresql.php	/^			$this->result = @pg_query($this->dbh, $query);$/;"	v
+result	ezSQL-master/sqlite/ez_sql_sqlite.php	/^			$this->result = @sqlite_query($this->dbh,$query);$/;"	v
+result	ezSQL-master/sqlite/ez_sql_sqlite3.php	/^			$this->result = $this->dbh->query($query);$/;"	v
+result	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^			$this->result = @sqlsrv_query($this->dbh, $query);$/;"	v
+result	ezSQL-master/sybase/ez_sql_sybase.php	/^			$this->result = @sybase_query($query);$/;"	v
+result_cache	ezSQL-master/shared/ez_sql_core.php	/^					$result_cache = array$/;"	v
+result_cache	ezSQL-master/shared/ez_sql_core.php	/^					$result_cache = unserialize(file_get_contents($cache_file));$/;"	v
+result_cache	ezSQL-master/shared/ez_sql_core_202console.php	/^					$result_cache = array$/;"	v
+result_cache	ezSQL-master/shared/ez_sql_core_202console.php	/^					$result_cache = unserialize(file_get_contents($cache_file));$/;"	v
+return_val	ezSQL-master/codeigniter/Ezsql_codeigniter.php	/^				$return_val = $this->num_rows = $num_rows;$/;"	v
+return_val	ezSQL-master/codeigniter/Ezsql_codeigniter.php	/^				$return_val = $this->rows_affected;$/;"	v
+return_val	ezSQL-master/codeigniter/Ezsql_codeigniter.php	/^			$return_val = 0;$/;"	v
+return_val	ezSQL-master/cubrid/ez_sql_cubrid.php	/^				$return_val = $this->num_rows;$/;"	v
+return_val	ezSQL-master/cubrid/ez_sql_cubrid.php	/^				$return_val = $this->rows_affected;$/;"	v
+return_val	ezSQL-master/cubrid/ez_sql_cubrid.php	/^				$return_val = true;$/;"	v
+return_val	ezSQL-master/cubrid/ez_sql_cubrid.php	/^			$return_val = 0;$/;"	v
+return_val	ezSQL-master/cubrid/ez_sql_cubrid.php	/^			global $ezSQL_cubrid_str; $return_val = false;$/;"	v
+return_val	ezSQL-master/mssql/ez_sql_mssql.php	/^				$return_val = $this->num_rows;$/;"	v
+return_val	ezSQL-master/mssql/ez_sql_mssql.php	/^				$return_val = $this->rows_affected;$/;"	v
+return_val	ezSQL-master/mssql/ez_sql_mssql.php	/^				$return_val = true;$/;"	v
+return_val	ezSQL-master/mssql/ez_sql_mssql.php	/^			$return_val = 0;$/;"	v
+return_val	ezSQL-master/mssql/ez_sql_mssql.php	/^			$return_val = false;$/;"	v
+return_val	ezSQL-master/mssql/ez_sql_mssql.php	/^			else $return_val = true;$/;"	v
+return_val	ezSQL-master/mssql/ez_sql_mssql.php	/^			global $ezsql_mssql_str; $return_val = false;$/;"	v
+return_val	ezSQL-master/mysql/ez_sql_mysql.php	/^				$return_val = $this->num_rows;$/;"	v
+return_val	ezSQL-master/mysql/ez_sql_mysql.php	/^				$return_val = $this->rows_affected;$/;"	v
+return_val	ezSQL-master/mysql/ez_sql_mysql.php	/^				$return_val = true;$/;"	v
+return_val	ezSQL-master/mysql/ez_sql_mysql.php	/^			$return_val = 0;$/;"	v
+return_val	ezSQL-master/mysql/ez_sql_mysql.php	/^			$return_val = false;$/;"	v
+return_val	ezSQL-master/mysql/ez_sql_mysql.php	/^			else $return_val = true;$/;"	v
+return_val	ezSQL-master/mysql/ez_sql_mysql.php	/^			global $ezsql_mysql_str; $return_val = false;$/;"	v
+return_val	ezSQL-master/mysqli/ez_sql_mysqli.php	/^					$return_val = true;$/;"	v
+return_val	ezSQL-master/mysqli/ez_sql_mysqli.php	/^				$return_val = $this->num_rows;$/;"	v
+return_val	ezSQL-master/mysqli/ez_sql_mysqli.php	/^				$return_val = $this->rows_affected;$/;"	v
+return_val	ezSQL-master/mysqli/ez_sql_mysqli.php	/^				$return_val = true;$/;"	v
+return_val	ezSQL-master/mysqli/ez_sql_mysqli.php	/^			$return_val = 0;$/;"	v
+return_val	ezSQL-master/mysqli/ez_sql_mysqli.php	/^			$return_val = false;$/;"	v
+return_val	ezSQL-master/mysqli/ez_sql_mysqli.php	/^			else $return_val = true;$/;"	v
+return_val	ezSQL-master/mysqli/ez_sql_mysqli.php	/^			global $ezsql_mysqli_str; $return_val = false;$/;"	v
+return_val	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^				$return_val = $this->get_var("SELECT $seq_name.nextVal id FROM Dual");$/;"	v
+return_val	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^				$return_val = true;$/;"	v
+return_val	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^			$return_val = $this->get_var("SELECT $seq_name.nextVal id FROM Dual");$/;"	v
+return_val	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^			global $ezsql_oracle8_9_str; $return_val = false;$/;"	v
+return_val	ezSQL-master/pdo/ez_sql_pdo.php	/^				$return_val = $this->num_rows;$/;"	v
+return_val	ezSQL-master/pdo/ez_sql_pdo.php	/^				$return_val = $this->rows_affected;$/;"	v
+return_val	ezSQL-master/pdo/ez_sql_pdo.php	/^				$return_val = true;$/;"	v
+return_val	ezSQL-master/pdo/ez_sql_pdo.php	/^			$return_val = 0;$/;"	v
+return_val	ezSQL-master/pdo/ez_sql_pdo.php	/^			global $ezsql_pdo_str; $return_val = false;$/;"	v
+return_val	ezSQL-master/postgresql/ez_sql_postgresql.php	/^				$return_val = $this->num_rows;$/;"	v
+return_val	ezSQL-master/postgresql/ez_sql_postgresql.php	/^				$return_val = $this->rows_affected;$/;"	v
+return_val	ezSQL-master/postgresql/ez_sql_postgresql.php	/^				$return_val = true;$/;"	v
+return_val	ezSQL-master/postgresql/ez_sql_postgresql.php	/^			$return_val = 0;$/;"	v
+return_val	ezSQL-master/postgresql/ez_sql_postgresql.php	/^			$return_val = false;$/;"	v
+return_val	ezSQL-master/postgresql/ez_sql_postgresql.php	/^			else $return_val = true;$/;"	v
+return_val	ezSQL-master/postgresql/ez_sql_postgresql.php	/^			global $ezsql_postgresql_str; $return_val = false;$/;"	v
+return_val	ezSQL-master/sqlite/ez_sql_sqlite.php	/^				$return_val = $this->num_rows;$/;"	v
+return_val	ezSQL-master/sqlite/ez_sql_sqlite.php	/^				$return_val = $this->rows_affected;$/;"	v
+return_val	ezSQL-master/sqlite/ez_sql_sqlite.php	/^				$return_val = true;$/;"	v
+return_val	ezSQL-master/sqlite/ez_sql_sqlite.php	/^			$return_val = 0;$/;"	v
+return_val	ezSQL-master/sqlite/ez_sql_sqlite.php	/^			global $ezsql_sqlite_str; $return_val = false;$/;"	v
+return_val	ezSQL-master/sqlite/ez_sql_sqlite3.php	/^				$return_val = $this->num_rows;$/;"	v
+return_val	ezSQL-master/sqlite/ez_sql_sqlite3.php	/^				$return_val = $this->rows_affected;$/;"	v
+return_val	ezSQL-master/sqlite/ez_sql_sqlite3.php	/^				$return_val = true;$/;"	v
+return_val	ezSQL-master/sqlite/ez_sql_sqlite3.php	/^			$return_val = 0;$/;"	v
+return_val	ezSQL-master/sqlite/ez_sql_sqlite3.php	/^			global $ezsql_sqlite3_str; $return_val = false;$/;"	v
+return_val	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^				$return_val = $this->num_rows;$/;"	v
+return_val	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^				$return_val = $this->rows_affected;$/;"	v
+return_val	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^				$return_val = true;$/;"	v
+return_val	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^			$return_val = 0;$/;"	v
+return_val	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^			$return_val = false;$/;"	v
+return_val	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^			else $return_val = true;$/;"	v
+return_val	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^			global $ezsql_sqlsrv_str; $return_val = false;$/;"	v
+return_val	ezSQL-master/sybase/ez_sql_sybase.php	/^				$return_val = $this->num_rows;$/;"	v
+return_val	ezSQL-master/sybase/ez_sql_sybase.php	/^				$return_val = $this->rows_affected;$/;"	v
+return_val	ezSQL-master/sybase/ez_sql_sybase.php	/^				$return_val = true;$/;"	v
+return_val	ezSQL-master/sybase/ez_sql_sybase.php	/^			$return_val = 0;$/;"	v
+return_val	ezSQL-master/sybase/ez_sql_sybase.php	/^			$return_val = false;$/;"	v
+return_val	ezSQL-master/sybase/ez_sql_sybase.php	/^			else $return_val = true;$/;"	v
+return_val	ezSQL-master/sybase/ez_sql_sybase.php	/^			global $ezsql_sybase_str; $return_val = false;$/;"	v
+return_value	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^				$return_value = $this->num_rows;$/;"	v
+return_value	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^				$return_value = $this->rows_affected = @OCIRowCount($stmt);$/;"	v
+return_value	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^			$return_value = 0;$/;"	v
+returns	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^		*  this function returns the next ID from that sequence$/;"	f
+row	ezSQL-master/cubrid/ez_sql_cubrid.php	/^				while ( $row = @cubrid_fetch_object($this->result) )$/;"	v
+row	ezSQL-master/mssql/ez_sql_mssql.php	/^				while ( $row = @mssql_fetch_object($this->result) )$/;"	v
+row	ezSQL-master/mysql/ez_sql_mysql.php	/^				while ( $row = @mysql_fetch_object($this->result) )$/;"	v
+row	ezSQL-master/mysqli/ez_sql_mysqli.php	/^				while ( $row = @$this->result->fetch_object() )$/;"	v
+row	ezSQL-master/pdo/ez_sql_pdo.php	/^				while ( $row = @$sth->fetch(PDO::FETCH_ASSOC) )$/;"	v
+row	ezSQL-master/postgresql/ez_sql_postgresql.php	/^							\/\/while ( $row = @pg_fetch_object($this->result, $i, PGSQL_ASSOC) ) doesn't work? donno$/;"	v
+row	ezSQL-master/postgresql/ez_sql_postgresql.php	/^							\/\/while ( $row = @pg_fetch_object($this->result,$num_rows) ) does work$/;"	v
+row	ezSQL-master/postgresql/ez_sql_postgresql.php	/^							while ( $row = @pg_fetch_object($this->result) )$/;"	v
+row	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^				while ( $row = @sqlsrv_fetch_object($this->result) )$/;"	v
+row	ezSQL-master/sybase/ez_sql_sybase.php	/^				while ( $row = @sybase_fetch_object($this->result) )$/;"	v
+row_num	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^						$row_num=0;$/;"	v
+rows_affected	ezSQL-master/codeigniter/Ezsql_codeigniter.php	/^				$this->rows_affected = $this->CI->db->affected_rows();$/;"	v
+rows_affected	ezSQL-master/codeigniter/Ezsql_codeigniter.php	/^		var $rows_affected = false;$/;"	v
+rows_affected	ezSQL-master/cubrid/ez_sql_cubrid.php	/^				$this->rows_affected = @cubrid_affected_rows($this->dbh);$/;"	v
+rows_affected	ezSQL-master/cubrid/ez_sql_cubrid.php	/^		var $rows_affected = false;$/;"	v
+rows_affected	ezSQL-master/mssql/ez_sql_mssql.php	/^				$this->rows_affected = @mssql_rows_affected($this->dbh);$/;"	v
+rows_affected	ezSQL-master/mssql/ez_sql_mssql.php	/^		var $rows_affected = false;$/;"	v
+rows_affected	ezSQL-master/mysql/ez_sql_mysql.php	/^				$this->rows_affected = @mysql_affected_rows($this->dbh);$/;"	v
+rows_affected	ezSQL-master/mysql/ez_sql_mysql.php	/^		var $rows_affected = false;$/;"	v
+rows_affected	ezSQL-master/mysqli/ez_sql_mysqli.php	/^				$this->rows_affected = @$this->dbh->affected_rows;$/;"	v
+rows_affected	ezSQL-master/mysqli/ez_sql_mysqli.php	/^		var $rows_affected = false;$/;"	v
+rows_affected	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^		var $rows_affected = false;$/;"	v
+rows_affected	ezSQL-master/pdo/ez_sql_pdo.php	/^				$this->rows_affected = $this->dbh->exec($query);$/;"	v
+rows_affected	ezSQL-master/pdo/ez_sql_pdo.php	/^		var $rows_affected = false;$/;"	v
+rows_affected	ezSQL-master/postgresql/ez_sql_postgresql.php	/^				$this->rows_affected = @pg_affected_rows($this->result);$/;"	v
+rows_affected	ezSQL-master/postgresql/ez_sql_postgresql.php	/^		var $rows_affected = false;$/;"	v
+rows_affected	ezSQL-master/sqlite/ez_sql_sqlite.php	/^				$this->rows_affected = @sqlite_changes($this->dbh);$/;"	v
+rows_affected	ezSQL-master/sqlite/ez_sql_sqlite.php	/^		var $rows_affected = false;$/;"	v
+rows_affected	ezSQL-master/sqlite/ez_sql_sqlite3.php	/^				$this->rows_affected = @$this->dbh->changes();$/;"	v
+rows_affected	ezSQL-master/sqlite/ez_sql_sqlite3.php	/^		var $rows_affected = false;$/;"	v
+rows_affected	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^				$this->rows_affected = @sqlsrv_rows_affected($this->dbh);$/;"	v
+rows_affected	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^		var $rows_affected = false;$/;"	v
+rows_affected	ezSQL-master/sybase/ez_sql_sybase.php	/^				$this->rows_affected = @sybase_rows_affected($this->dbh);$/;"	v
+rows_affected	ezSQL-master/sybase/ez_sql_sybase.php	/^		var $rows_affected = false;$/;"	v
+select	ezSQL-master/cubrid/ez_sql_cubrid.php	/^		function select($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost', $dbport=33000)$/;"	f
+select	ezSQL-master/mssql/ez_sql_mssql.php	/^		function select($dbname='')$/;"	f
+select	ezSQL-master/mysql/ez_sql_mysql.php	/^		function select($dbname='', $encoding='')$/;"	f
+select	ezSQL-master/mysqli/ez_sql_mysqli.php	/^		function select($dbname='', $encoding='')$/;"	f
+select	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^		function select($dbuser='', $dbpassword='', $dbname='')$/;"	f
+select	ezSQL-master/pdo/ez_sql_pdo.php	/^		function select($dsn='', $user='', $password='', $ssl=array())$/;"	f
+select	ezSQL-master/postgresql/ez_sql_postgresql.php	/^		function select($dbuser='', $dbpassword='', $dbname='', $dbhost='localhost', $port='5432')$/;"	f
+select	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^		function select()$/;"	f
+select	ezSQL-master/shared/ez_sql_core_202console.php	/^		function select()$/;"	f
+select	ezSQL-master/sqlite/ez_sql_sqlite.php	/^		function select($dbpath='', $dbname='')$/;"	f
+select	ezSQL-master/sqlite/ez_sql_sqlite3.php	/^		function select($dbpath='', $dbname='')$/;"	f
+select	ezSQL-master/sybase/ez_sql_sybase.php	/^		function select($dbname='')$/;"	f
+showDatabases	ezSQL-master/postgresql/ez_sql_postgresql.php	/^		function showDatabases()$/;"	f
+showTables	ezSQL-master/postgresql/ez_sql_postgresql.php	/^		function showTables()$/;"	f
+show_errors	ezSQL-master/shared/ez_sql_core.php	/^			$this->show_errors = false;$/;"	v
+show_errors	ezSQL-master/shared/ez_sql_core.php	/^			$this->show_errors = true;$/;"	v
+show_errors	ezSQL-master/shared/ez_sql_core.php	/^		function show_errors()$/;"	f
+show_errors	ezSQL-master/shared/ez_sql_core.php	/^		var $show_errors      = true;$/;"	v
+show_errors	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^			$this->show_errors = false;$/;"	v
+show_errors	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^			$this->show_errors = true;$/;"	v
+show_errors	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^		function show_errors()$/;"	f
+show_errors	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^		var $show_errors     = true;$/;"	v
+show_errors	ezSQL-master/shared/ez_sql_core_202console.php	/^			$this->show_errors = false;$/;"	v
+show_errors	ezSQL-master/shared/ez_sql_core_202console.php	/^			$this->show_errors = true;$/;"	v
+show_errors	ezSQL-master/shared/ez_sql_core_202console.php	/^		function show_errors()$/;"	f
+show_errors	ezSQL-master/shared/ez_sql_core_202console.php	/^		var $show_errors     = true;$/;"	v
+socket	ControlJSONRPC.php	/^        $this->socket = socket_create(AF_INET, SOCK_STREAM, SOL_TCP); \/\/ 创建一个Socket  $/;"	v
+socket	ControlJSONRPC.php	/^    private $socket;$/;"	v
+sql	ezSQL-master/shared/ez_sql_core.php	/^			$sql = array();$/;"	v
+sqlError	ezSQL-master/mssql/ez_sql_mssql.php	/^				$sqlError = "ErrorCode: ".$errorCode." ### Error Severity: ".$errorSeverity." ### Error Message: ".$errorMessage." ### Query: ".$query;$/;"	v
+sqlError	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^						$sqlError = "ErrorCode: ".$error['code']." ### State: ".$error['SQLSTATE']." ### Error Message: ".$error['message']." ### Query: ".$query;$/;"	v
+sqlError	ezSQL-master/sybase/ez_sql_sybase.php	/^				$sqlError = "ErrorCode: ".$errorCode." ### Error Severity: ".$errorSeverity." ### Error Message: ".$errorMessage." ### Query: ".$query;$/;"	v
+sql_log_file	ezSQL-master/shared/ez_sql_core.php	/^		var $sql_log_file     = false;$/;"	v
+sth	ezSQL-master/pdo/ez_sql_pdo.php	/^				$sth = $this->dbh->query($query);$/;"	v
+stmt	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^			if ( ! $stmt = OCIParse($this->dbh, $query))$/;"	v
+store_cache	ezSQL-master/shared/ez_sql_core.php	/^		function store_cache($query,$is_insert)$/;"	f
+store_cache	ezSQL-master/shared/ez_sql_core_202console.php	/^		function store_cache($query,$is_insert)$/;"	f
+str	ezSQL-master/codeigniter/Ezsql_codeigniter.php	/^			if ( $str = $this->CI->db->_error_message() )$/;"	v
+str	ezSQL-master/cubrid/ez_sql_cubrid.php	/^			if ( $str = @cubrid_error($this->dbh) )$/;"	v
+str	ezSQL-master/mssql/ez_sql_mssql.php	/^				$str = $ezsql_mssql_str[5];$/;"	v
+str	ezSQL-master/mysql/ez_sql_mysql.php	/^					  $str = $ezsql_mysql_str[5];$/;"	v
+str	ezSQL-master/mysql/ez_sql_mysql.php	/^			if ( $str = @mysql_error($this->dbh) )$/;"	v
+str	ezSQL-master/mysqli/ez_sql_mysqli.php	/^					  $str = $ezsql_mysqli_str[5];$/;"	v
+str	ezSQL-master/mysqli/ez_sql_mysqli.php	/^			if ( $str = @$this->dbh->error )$/;"	v
+str	ezSQL-master/pdo/ez_sql_pdo.php	/^				case 'boolean' : $str = ($str === FALSE) ? 0 : 1;$/;"	v
+str	ezSQL-master/pdo/ez_sql_pdo.php	/^				case 'string' : $str = addslashes(stripslashes($str));$/;"	v
+str	ezSQL-master/pdo/ez_sql_pdo.php	/^				default : $str = ($str === NULL) ? 'NULL' : $str;$/;"	v
+str	ezSQL-master/postgresql/ez_sql_postgresql.php	/^			if ( $str = @pg_last_error($this->dbh) )$/;"	v
+str	ezSQL-master/sybase/ez_sql_sybase.php	/^				$str = $ezsql_sybase_str[5];$/;"	v
+sysdate	ezSQL-master/cubrid/demo.php	/^	\/\/ (and using abstracted function sysdate)$/;"	f
+sysdate	ezSQL-master/cubrid/ez_sql_cubrid.php	/^		function sysdate()$/;"	f
+sysdate	ezSQL-master/mssql/demo.php	/^	\/\/ (and using abstracted function sysdate)$/;"	f
+sysdate	ezSQL-master/mssql/ez_sql_mssql.php	/^		function sysdate()$/;"	f
+sysdate	ezSQL-master/mysql/demo.php	/^	\/\/ (and using abstracted function sysdate)$/;"	f
+sysdate	ezSQL-master/mysql/ez_sql_mysql.php	/^		function sysdate()$/;"	f
+sysdate	ezSQL-master/mysqli/demo.php	/^	\/\/ (and using abstracted function sysdate)$/;"	f
+sysdate	ezSQL-master/mysqli/ez_sql_mysqli.php	/^		function sysdate()$/;"	f
+sysdate	ezSQL-master/oracle8_9/demo.php	/^	\/\/ (and using abstracted function sysdate)$/;"	f
+sysdate	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^		function sysdate()$/;"	f
+sysdate	ezSQL-master/pdo/demo_pdo_for_mysql.php	/^	\/\/ (and using abstracted function sysdate)$/;"	f
+sysdate	ezSQL-master/pdo/ez_sql_pdo.php	/^		function sysdate()$/;"	f
+sysdate	ezSQL-master/postgresql/demo.php	/^	\/\/ (and using abstracted function sysdate)$/;"	f
+sysdate	ezSQL-master/postgresql/ez_sql_postgresql.php	/^		function sysdate()$/;"	f
+sysdate	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^		function sysdate()$/;"	f
+sysdate	ezSQL-master/shared/ez_sql_core_202console.php	/^		function sysdate()$/;"	f
+sysdate	ezSQL-master/sqlite/ez_sql_sqlite.php	/^		function sysdate()$/;"	f
+sysdate	ezSQL-master/sqlite/ez_sql_sqlite3.php	/^		function sysdate()$/;"	f
+sysdate	ezSQL-master/sqlsrv/demo.php	/^	\/\/ (and using abstracted function sysdate)$/;"	f
+sysdate	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^		function sysdate()$/;"	f
+sysdate	ezSQL-master/sybase/ez_sql_sybase.php	/^		function sysdate()$/;"	f
+sysdate	ezSQL_init.php	/^\/\/ (and using abstracted function sysdate)$/;"	f
+timer_elapsed	ezSQL-master/shared/ez_sql_core.php	/^		function timer_elapsed($timer_name)$/;"	f
+timer_get_cur	ezSQL-master/shared/ez_sql_core.php	/^		function timer_get_cur()$/;"	f
+timer_start	ezSQL-master/shared/ez_sql_core.php	/^		function timer_start($timer_name)$/;"	f
+timer_update_global	ezSQL-master/shared/ez_sql_core.php	/^		function timer_update_global($timer_name)$/;"	f
+timers	ezSQL-master/shared/ez_sql_core.php	/^		var $timers           = array();$/;"	v
+to	ezSQL-master/shared/ez_sql_core.php	/^		*  Naughty little function to ask for some remuniration!$/;"	f
+to	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^		*  Naughty little function to ask for some remuniration!$/;"	f
+to	ezSQL-master/shared/ez_sql_core_202console.php	/^		*  Naughty little function to ask for some remuniration!$/;"	f
+total_query_time	ezSQL-master/shared/ez_sql_core.php	/^		var $total_query_time = 0;$/;"	v
+trace	ezSQL-master/shared/ez_sql_core.php	/^		var $trace            = false;  \/\/ same as $debug_all$/;"	v
+trace	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^		var $trace           = false;  \/\/ same as $debug_all$/;"	v
+trace	ezSQL-master/shared/ez_sql_core_202console.php	/^		var $trace           = false;  \/\/ same as $debug_all$/;"	v
+trace_log	ezSQL-master/shared/ez_sql_core.php	/^		var $trace_log        = array();$/;"	v
+use_disk_cache	ezSQL-master/shared/ez_sql_core.php	/^		var $use_disk_cache   = false;$/;"	v
+use_disk_cache	ezSQL-master/shared/ez_sql_core_202console.php	/^		var $use_disk_cache  = false;$/;"	v
+use_trace_log	ezSQL-master/shared/ez_sql_core.php	/^		var $use_trace_log    = false;$/;"	v
+user	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^		*  if $user = ''; even if there were records that = ''$/;"	v
+user	ezSQL-master/pdo/ez_sql_pdo.php	/^		function connect($dsn='', $user='', $password='', $ssl=array())$/;"	v
+user	ezSQL-master/pdo/ez_sql_pdo.php	/^		function ezSQL_pdo($dsn='', $user='', $password='', $ssl=array())$/;"	v
+user	ezSQL-master/pdo/ez_sql_pdo.php	/^		function quick_connect($dsn='', $user='', $password='', $ssl=array())$/;"	v
+user	ezSQL-master/pdo/ez_sql_pdo.php	/^		function select($dsn='', $user='', $password='', $ssl=array())$/;"	v
+user	ezSQL-master/pdo/ez_sql_pdo.php	/^		var $user;$/;"	v
+user_fd	UserManager.php	/^        $user_fd = $this->db->get_results("SELECT fid FROM net where `uid`=\\"$uid\\"");$/;"	v
+val	ezSQL-master/shared/ez_sql_core.php	/^					$val = 0;$/;"	v
+val	ezSQL-master/shared/ez_sql_core.php	/^					$val = 1;$/;"	v
+val	ezSQL-master/shared/ez_sql_core.php	/^				if ( $val === 'false' || $val === false )$/;"	v
+val	ezSQL-master/shared/ez_sql_core.php	/^				if ( $val === 'true' || $val === true )$/;"	v
+values	ezSQL-master/shared/ez_sql_core.php	/^				$values = array_values(get_object_vars($this->last_result[$y]));$/;"	v
+values	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^				$values = array_values(get_object_vars($this->last_result[$y]));$/;"	v
+values	ezSQL-master/shared/ez_sql_core_202console.php	/^				$values = array_values(get_object_vars($this->last_result[$y]));$/;"	v
+var	ezSQL-master/cubrid/select_example.php	/^    $var = $db->get_var("SELECT count(*) FROM athlete");$/;"	v
+var_type	ezSQL-master/shared/ez_sql_core.php	/^			$var_type = gettype ($mixed);$/;"	v
+var_type	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^			$var_type = gettype ($mixed);$/;"	v
+var_type	ezSQL-master/shared/ez_sql_core_202console.php	/^			$var_type = gettype ($mixed);$/;"	v
+vardump	ezSQL-master/shared/ez_sql_core.php	/^		function vardump($mixed='')$/;"	f
+vardump	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^		function vardump($mixed='')$/;"	f
+vardump	ezSQL-master/shared/ez_sql_core_202console.php	/^		function vardump($mixed='')$/;"	f
+vardump_called	ezSQL-master/shared/ez_sql_core.php	/^			$this->vardump_called = true;$/;"	v
+vardump_called	ezSQL-master/shared/ez_sql_core.php	/^		var $vardump_called   = false;$/;"	v
+vardump_called	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^			$this->vardump_called = true;$/;"	v
+vardump_called	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^		var $vardump_called  = false;$/;"	v
+vardump_called	ezSQL-master/shared/ez_sql_core_202console.php	/^			$this->vardump_called = true;$/;"	v
+vardump_called	ezSQL-master/shared/ez_sql_core_202console.php	/^		var $vardump_called  = false;$/;"	v
+was	ezSQL-master/codeigniter/Ezsql_codeigniter.php	/^			\/\/ Log how the function was called$/;"	f
+was	ezSQL-master/cubrid/ez_sql_cubrid.php	/^			\/\/ Log how the function was called$/;"	f
+was	ezSQL-master/mssql/ez_sql_mssql.php	/^			\/\/ Log how the function was called$/;"	f
+was	ezSQL-master/mysql/ez_sql_mysql.php	/^			\/\/ Log how the function was called$/;"	f
+was	ezSQL-master/mysqli/ez_sql_mysqli.php	/^			\/\/ Log how the function was called$/;"	f
+was	ezSQL-master/oracle8_9/ez_sql_oracle8_9.php	/^			\/\/ Log how the function was called$/;"	f
+was	ezSQL-master/pdo/ez_sql_pdo.php	/^			\/\/ Log how the function was called$/;"	f
+was	ezSQL-master/postgresql/ez_sql_postgresql.php	/^			\/\/ Log how the function was called$/;"	f
+was	ezSQL-master/shared/ez_sql_core.php	/^			\/\/ Log how the function was called$/;"	f
+was	ezSQL-master/shared/ez_sql_core_2.1_debughack_0.2alpha.php	/^			\/\/ Log how the function was called$/;"	f
+was	ezSQL-master/shared/ez_sql_core_202console.php	/^			\/\/ Log how the function was called$/;"	f
+was	ezSQL-master/sqlite/ez_sql_sqlite.php	/^			\/\/ Log how the function was called$/;"	f
+was	ezSQL-master/sqlite/ez_sql_sqlite3.php	/^			\/\/ Log how the function was called$/;"	f
+was	ezSQL-master/sqlsrv/ez_sql_sqlsrv.php	/^			\/\/ Log how the function was called$/;"	f
+was	ezSQL-master/sybase/ez_sql_sybase.php	/^			\/\/ Log how the function was called$/;"	f
+write	ConnectJSONRPC.php	/^    public function write()$/;"	f

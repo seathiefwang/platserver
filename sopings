@@ -1,0 +1,573 @@
+<NotepadPlus>
+    <Project name="sopings">
+        <Folder name="smartserver">
+            <Folder name="Applications">
+                <Folder name="JsonRpc">
+                    <Folder name="Clients">
+                        <File name="smartserver\Applications\JsonRpc\Clients\RpcClient.php" />
+                        <File name="smartserver\Applications\JsonRpc\Clients\StatisticClient.php" />
+                    </Folder>
+                    <Folder name="Config">
+                        <File name="smartserver\Applications\JsonRpc\Config\Db.php" />
+                        <File name="smartserver\Applications\JsonRpc\Config\Store.php" />
+                    </Folder>
+                    <Folder name="libs">
+                        <Folder name="ezSQL-master">
+                            <Folder name="codeigniter">
+                                <File name="smartserver\Applications\JsonRpc\libs\ezSQL-master\codeigniter\Ezsql_codeigniter.php" />
+                                <File name="smartserver\Applications\JsonRpc\libs\ezSQL-master\codeigniter\install.txt" />
+                            </Folder>
+                            <Folder name="cubrid">
+                                <File name="smartserver\Applications\JsonRpc\libs\ezSQL-master\cubrid\demo.php" />
+                                <File name="smartserver\Applications\JsonRpc\libs\ezSQL-master\cubrid\disk_cache_example.php" />
+                                <File name="smartserver\Applications\JsonRpc\libs\ezSQL-master\cubrid\ez_sql_cubrid.php" />
+                                <File name="smartserver\Applications\JsonRpc\libs\ezSQL-master\cubrid\select_example.php" />
+                            </Folder>
+                            <Folder name="mssql">
+                                <File name="smartserver\Applications\JsonRpc\libs\ezSQL-master\mssql\demo.php" />
+                                <File name="smartserver\Applications\JsonRpc\libs\ezSQL-master\mssql\ez_sql_mssql.php" />
+                            </Folder>
+                            <Folder name="mysql">
+                                <File name="smartserver\Applications\JsonRpc\libs\ezSQL-master\mysql\demo.php" />
+                                <File name="smartserver\Applications\JsonRpc\libs\ezSQL-master\mysql\disk_cache_example.php" />
+                                <File name="smartserver\Applications\JsonRpc\libs\ezSQL-master\mysql\ez_sql_mysql.php" />
+                                <File name="smartserver\Applications\JsonRpc\libs\ezSQL-master\mysql\tags" />
+                            </Folder>
+                            <Folder name="mysqli">
+                                <File name="smartserver\Applications\JsonRpc\libs\ezSQL-master\mysqli\demo.php" />
+                                <File name="smartserver\Applications\JsonRpc\libs\ezSQL-master\mysqli\ez_sql_mysqli.php" />
+                            </Folder>
+                            <Folder name="oracle8_9">
+                                <File name="smartserver\Applications\JsonRpc\libs\ezSQL-master\oracle8_9\demo.php" />
+                                <File name="smartserver\Applications\JsonRpc\libs\ezSQL-master\oracle8_9\disk_cache_example.php" />
+                                <File name="smartserver\Applications\JsonRpc\libs\ezSQL-master\oracle8_9\ez_sql_oracle8_9.php" />
+                            </Folder>
+                            <Folder name="pdo">
+                                <File name="smartserver\Applications\JsonRpc\libs\ezSQL-master\pdo\demo_pdo_for_mysql.php" />
+                                <File name="smartserver\Applications\JsonRpc\libs\ezSQL-master\pdo\demo_pdo_for_sqlite.php" />
+                                <File name="smartserver\Applications\JsonRpc\libs\ezSQL-master\pdo\ez_sql_pdo.php" />
+                            </Folder>
+                            <Folder name="postgresql">
+                                <File name="smartserver\Applications\JsonRpc\libs\ezSQL-master\postgresql\demo.php" />
+                                <File name="smartserver\Applications\JsonRpc\libs\ezSQL-master\postgresql\ez_sql_postgresql.php" />
+                            </Folder>
+                            <Folder name="shared">
+                                <File name="smartserver\Applications\JsonRpc\libs\ezSQL-master\shared\ez_sql_core.php" />
+                                <File name="smartserver\Applications\JsonRpc\libs\ezSQL-master\shared\ez_sql_core_2.1_debughack_0.2alpha.php" />
+                                <File name="smartserver\Applications\JsonRpc\libs\ezSQL-master\shared\ez_sql_core_202console.php" />
+                                <File name="smartserver\Applications\JsonRpc\libs\ezSQL-master\shared\readme_debughack_0.2alpha.txt" />
+                            </Folder>
+                            <Folder name="sqlite">
+                                <File name="smartserver\Applications\JsonRpc\libs\ezSQL-master\sqlite\demo.php" />
+                                <File name="smartserver\Applications\JsonRpc\libs\ezSQL-master\sqlite\ez_sql_sqlite.php" />
+                                <File name="smartserver\Applications\JsonRpc\libs\ezSQL-master\sqlite\ez_sql_sqlite3.php" />
+                                <File name="smartserver\Applications\JsonRpc\libs\ezSQL-master\sqlite\sqlite_test.db" />
+                            </Folder>
+                            <Folder name="sqlsrv">
+                                <File name="smartserver\Applications\JsonRpc\libs\ezSQL-master\sqlsrv\demo.php" />
+                                <File name="smartserver\Applications\JsonRpc\libs\ezSQL-master\sqlsrv\ez_sql_sqlsrv.php" />
+                            </Folder>
+                            <Folder name="sybase">
+                                <File name="smartserver\Applications\JsonRpc\libs\ezSQL-master\sybase\ez_sql_sybase.php" />
+                            </Folder>
+                            <File name="smartserver\Applications\JsonRpc\libs\ezSQL-master\composer.json" />
+                            <File name="smartserver\Applications\JsonRpc\libs\ezSQL-master\ez_sql_help.htm" />
+                            <File name="smartserver\Applications\JsonRpc\libs\ezSQL-master\ez_sql_with_smarty.html" />
+                            <File name="smartserver\Applications\JsonRpc\libs\ezSQL-master\readme.txt" />
+                        </Folder>
+                        <File name="smartserver\Applications\JsonRpc\libs\ControlJSONRPC.php" />
+                        <File name="smartserver\Applications\JsonRpc\libs\ezSQL_init.php" />
+                        <File name="smartserver\Applications\JsonRpc\libs\tags" />
+                        <File name="smartserver\Applications\JsonRpc\libs\UserManager.php" />
+                    </Folder>
+                    <Folder name="Protocols">
+                        <File name="smartserver\Applications\JsonRpc\Protocols\IBeeAir2.php" />
+                        <File name="smartserver\Applications\JsonRpc\Protocols\JsonNL.php" />
+                    </Folder>
+                    <Folder name="Services">
+                        <File name="smartserver\Applications\JsonRpc\Services\Blog.php" />
+                        <File name="smartserver\Applications\JsonRpc\Services\Device.php" />
+                        <File name="smartserver\Applications\JsonRpc\Services\login.php" />
+                        <File name="smartserver\Applications\JsonRpc\Services\User.php" />
+                    </Folder>
+                    <Folder name="SysServices">
+                        <File name="smartserver\Applications\JsonRpc\SysServices\System.php" />
+                    </Folder>
+                    <File name="smartserver\Applications\JsonRpc\Event.php" />
+                    <File name="smartserver\Applications\JsonRpc\start.php" />
+                </Folder>
+                <Folder name="Statistics">
+                    <Folder name="Bootstrap">
+                        <File name="smartserver\Applications\Statistics\Bootstrap\StatisticProvider.php" />
+                        <File name="smartserver\Applications\Statistics\Bootstrap\StatisticWorker.php" />
+                    </Folder>
+                    <Folder name="Clients">
+                        <File name="smartserver\Applications\Statistics\Clients\StatisticClient.php" />
+                    </Folder>
+                    <Folder name="Config">
+                        <Folder name="Cache">
+                            <File name="smartserver\Applications\Statistics\Config\Cache\empty" />
+                        </Folder>
+                        <File name="smartserver\Applications\Statistics\Config\Config.php" />
+                    </Folder>
+                    <Folder name="data">
+                        <Folder name="statistic">
+                            <Folder name="log" />
+                            <Folder name="statistic" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="Lib">
+                        <File name="smartserver\Applications\Statistics\Lib\Cache.php" />
+                        <File name="smartserver\Applications\Statistics\Lib\functions.php" />
+                    </Folder>
+                    <Folder name="Modules">
+                        <File name="smartserver\Applications\Statistics\Modules\admin.php" />
+                        <File name="smartserver\Applications\Statistics\Modules\logger.php" />
+                        <File name="smartserver\Applications\Statistics\Modules\main.php" />
+                        <File name="smartserver\Applications\Statistics\Modules\setting.php" />
+                        <File name="smartserver\Applications\Statistics\Modules\statistic.php" />
+                    </Folder>
+                    <Folder name="Protocols">
+                        <File name="smartserver\Applications\Statistics\Protocols\Statistic.php" />
+                    </Folder>
+                    <Folder name="Views">
+                        <File name="smartserver\Applications\Statistics\Views\admin.tpl.php" />
+                        <File name="smartserver\Applications\Statistics\Views\footer.tpl.php" />
+                        <File name="smartserver\Applications\Statistics\Views\header.tpl.php" />
+                        <File name="smartserver\Applications\Statistics\Views\log.tpl.php" />
+                        <File name="smartserver\Applications\Statistics\Views\login.tpl.php" />
+                        <File name="smartserver\Applications\Statistics\Views\main.tpl.php" />
+                        <File name="smartserver\Applications\Statistics\Views\setting.tpl.php" />
+                        <File name="smartserver\Applications\Statistics\Views\statistic.tpl.php" />
+                    </Folder>
+                    <Folder name="Web">
+                        <Folder name="css">
+                            <File name="smartserver\Applications\Statistics\Web\css\bootstrap-theme.css" />
+                            <File name="smartserver\Applications\Statistics\Web\css\bootstrap-theme.min.css" />
+                            <File name="smartserver\Applications\Statistics\Web\css\bootstrap.css" />
+                            <File name="smartserver\Applications\Statistics\Web\css\bootstrap.min.css" />
+                            <File name="smartserver\Applications\Statistics\Web\css\style.css" />
+                        </Folder>
+                        <Folder name="img">
+                            <File name="smartserver\Applications\Statistics\Web\img\apple-touch-icon-114-precomposed.png" />
+                            <File name="smartserver\Applications\Statistics\Web\img\apple-touch-icon-144-precomposed.png" />
+                            <File name="smartserver\Applications\Statistics\Web\img\apple-touch-icon-57-precomposed.png" />
+                            <File name="smartserver\Applications\Statistics\Web\img\apple-touch-icon-72-precomposed.png" />
+                            <File name="smartserver\Applications\Statistics\Web\img\favicon.png" />
+                            <File name="smartserver\Applications\Statistics\Web\img\glyphicons-halflings-white.png" />
+                            <File name="smartserver\Applications\Statistics\Web\img\glyphicons-halflings.png" />
+                        </Folder>
+                        <Folder name="js">
+                            <File name="smartserver\Applications\Statistics\Web\js\bootstrap.min.js" />
+                            <File name="smartserver\Applications\Statistics\Web\js\highcharts.js" />
+                            <File name="smartserver\Applications\Statistics\Web\js\html5shiv.js" />
+                            <File name="smartserver\Applications\Statistics\Web\js\jquery.min.js" />
+                            <File name="smartserver\Applications\Statistics\Web\js\less-1.3.3.min.js" />
+                            <File name="smartserver\Applications\Statistics\Web\js\scripts.js" />
+                        </Folder>
+                        <Folder name="less">
+                            <File name="smartserver\Applications\Statistics\Web\less\alerts.less" />
+                            <File name="smartserver\Applications\Statistics\Web\less\badges.less" />
+                            <File name="smartserver\Applications\Statistics\Web\less\bootstrap.less" />
+                            <File name="smartserver\Applications\Statistics\Web\less\breadcrumbs.less" />
+                            <File name="smartserver\Applications\Statistics\Web\less\button-groups.less" />
+                            <File name="smartserver\Applications\Statistics\Web\less\buttons.less" />
+                            <File name="smartserver\Applications\Statistics\Web\less\carousel.less" />
+                            <File name="smartserver\Applications\Statistics\Web\less\close.less" />
+                            <File name="smartserver\Applications\Statistics\Web\less\code.less" />
+                            <File name="smartserver\Applications\Statistics\Web\less\component-animations.less" />
+                            <File name="smartserver\Applications\Statistics\Web\less\dropdowns.less" />
+                            <File name="smartserver\Applications\Statistics\Web\less\forms.less" />
+                            <File name="smartserver\Applications\Statistics\Web\less\glyphicons.less" />
+                            <File name="smartserver\Applications\Statistics\Web\less\grid.less" />
+                            <File name="smartserver\Applications\Statistics\Web\less\input-groups.less" />
+                            <File name="smartserver\Applications\Statistics\Web\less\jumbotron.less" />
+                            <File name="smartserver\Applications\Statistics\Web\less\labels.less" />
+                            <File name="smartserver\Applications\Statistics\Web\less\list-group.less" />
+                            <File name="smartserver\Applications\Statistics\Web\less\media.less" />
+                            <File name="smartserver\Applications\Statistics\Web\less\mixins.less" />
+                            <File name="smartserver\Applications\Statistics\Web\less\modals.less" />
+                            <File name="smartserver\Applications\Statistics\Web\less\navbar.less" />
+                            <File name="smartserver\Applications\Statistics\Web\less\navs.less" />
+                            <File name="smartserver\Applications\Statistics\Web\less\normalize.less" />
+                            <File name="smartserver\Applications\Statistics\Web\less\pager.less" />
+                            <File name="smartserver\Applications\Statistics\Web\less\pagination.less" />
+                            <File name="smartserver\Applications\Statistics\Web\less\panels.less" />
+                            <File name="smartserver\Applications\Statistics\Web\less\popovers.less" />
+                            <File name="smartserver\Applications\Statistics\Web\less\print.less" />
+                            <File name="smartserver\Applications\Statistics\Web\less\progress-bars.less" />
+                            <File name="smartserver\Applications\Statistics\Web\less\responsive-utilities.less" />
+                            <File name="smartserver\Applications\Statistics\Web\less\scaffolding.less" />
+                            <File name="smartserver\Applications\Statistics\Web\less\tables.less" />
+                            <File name="smartserver\Applications\Statistics\Web\less\theme.less" />
+                            <File name="smartserver\Applications\Statistics\Web\less\thumbnails.less" />
+                            <File name="smartserver\Applications\Statistics\Web\less\tooltip.less" />
+                            <File name="smartserver\Applications\Statistics\Web\less\type.less" />
+                            <File name="smartserver\Applications\Statistics\Web\less\utilities.less" />
+                            <File name="smartserver\Applications\Statistics\Web\less\variables.less" />
+                            <File name="smartserver\Applications\Statistics\Web\less\wells.less" />
+                        </Folder>
+                        <File name="smartserver\Applications\Statistics\Web\config.php" />
+                        <File name="smartserver\Applications\Statistics\Web\index.php" />
+                        <File name="smartserver\Applications\Statistics\Web\_init.php" />
+                    </Folder>
+                    <File name="smartserver\Applications\Statistics\README.md" />
+                    <File name="smartserver\Applications\Statistics\start.php" />
+                </Folder>
+                <Folder name="Todpole">
+                    <Folder name="Config">
+                        <File name="smartserver\Applications\Todpole\Config\Store.php" />
+                    </Folder>
+                    <Folder name="Web">
+                        <Folder name="css">
+                            <Folder name="images">
+                                <File name="smartserver\Applications\Todpole\Web\css\images\logo.png" />
+                            </Folder>
+                            <File name="smartserver\Applications\Todpole\Web\css\main.css" />
+                        </Folder>
+                        <Folder name="images">
+                            <File name="smartserver\Applications\Todpole\Web\images\apple-touch-icon.png" />
+                            <File name="smartserver\Applications\Todpole\Web\images\fb-image.jpg" />
+                            <File name="smartserver\Applications\Todpole\Web\images\workerman-todpole-browser.png" />
+                        </Folder>
+                        <Folder name="js">
+                            <Folder name="lib">
+                                <File name="smartserver\Applications\Todpole\Web\js\lib\jquery-1.4.2.min.js" />
+                                <File name="smartserver\Applications\Todpole\Web\js\lib\modernizr-1.5.min.js" />
+                                <File name="smartserver\Applications\Todpole\Web\js\lib\parseUri.js" />
+                                <File name="smartserver\Applications\Todpole\Web\js\lib\Stats.js" />
+                            </Folder>
+                            <File name="smartserver\Applications\Todpole\Web\js\App.js" />
+                            <File name="smartserver\Applications\Todpole\Web\js\Arrow.js" />
+                            <File name="smartserver\Applications\Todpole\Web\js\Camera.js" />
+                            <File name="smartserver\Applications\Todpole\Web\js\Cookie.js" />
+                            <File name="smartserver\Applications\Todpole\Web\js\formControls.js" />
+                            <File name="smartserver\Applications\Todpole\Web\js\frogMode.js" />
+                            <File name="smartserver\Applications\Todpole\Web\js\jquery.min.js" />
+                            <File name="smartserver\Applications\Todpole\Web\js\Keys.js" />
+                            <File name="smartserver\Applications\Todpole\Web\js\main.js" />
+                            <File name="smartserver\Applications\Todpole\Web\js\Message.js" />
+                            <File name="smartserver\Applications\Todpole\Web\js\Model.js" />
+                            <File name="smartserver\Applications\Todpole\Web\js\Settings.js" />
+                            <File name="smartserver\Applications\Todpole\Web\js\Tadpole.js" />
+                            <File name="smartserver\Applications\Todpole\Web\js\TadpoleTail.js" />
+                            <File name="smartserver\Applications\Todpole\Web\js\WaterParticle.js" />
+                            <File name="smartserver\Applications\Todpole\Web\js\WebSocketService.js" />
+                        </Folder>
+                        <File name="smartserver\Applications\Todpole\Web\auth.html" />
+                        <File name="smartserver\Applications\Todpole\Web\favicon.ico" />
+                        <File name="smartserver\Applications\Todpole\Web\index.php" />
+                    </Folder>
+                    <File name="smartserver\Applications\Todpole\Event.php" />
+                    <File name="smartserver\Applications\Todpole\start.php" />
+                </Folder>
+            </Folder>
+            <Folder name="GatewayWorker">
+                <Folder name="Lib">
+                    <Folder name="StoreDriver">
+                        <File name="smartserver\GatewayWorker\Lib\StoreDriver\File.php" />
+                    </Folder>
+                    <File name="smartserver\GatewayWorker\Lib\Context.php" />
+                    <File name="smartserver\GatewayWorker\Lib\Db.php" />
+                    <File name="smartserver\GatewayWorker\Lib\DbConnection.php" />
+                    <File name="smartserver\GatewayWorker\Lib\Gateway.php" />
+                    <File name="smartserver\GatewayWorker\Lib\Lock.php" />
+                    <File name="smartserver\GatewayWorker\Lib\Store.php" />
+                </Folder>
+                <File name="smartserver\GatewayWorker\BusinessWorker.php" />
+                <File name="smartserver\GatewayWorker\Gateway.php" />
+            </Folder>
+            <Folder name="service">
+                <File name="smartserver\service\Blog.php" />
+                <File name="smartserver\service\Device.php" />
+                <File name="smartserver\service\login.php" />
+                <File name="smartserver\service\User.php" />
+            </Folder>
+            <Folder name="Workerman">
+                <Folder name="Connection">
+                    <File name="smartserver\Workerman\Connection\AsyncTcpConnection.php" />
+                    <File name="smartserver\Workerman\Connection\ConnectionInterface.php" />
+                    <File name="smartserver\Workerman\Connection\TcpConnection.php" />
+                    <File name="smartserver\Workerman\Connection\UdpConnection.php" />
+                </Folder>
+                <Folder name="Events">
+                    <File name="smartserver\Workerman\Events\EventInterface.php" />
+                    <File name="smartserver\Workerman\Events\Libevent.php" />
+                    <File name="smartserver\Workerman\Events\Select.php" />
+                </Folder>
+                <Folder name="Lib">
+                    <File name="smartserver\Workerman\Lib\Constants.php" />
+                    <File name="smartserver\Workerman\Lib\Timer.php" />
+                </Folder>
+                <Folder name="Protocols">
+                    <Folder name="Http">
+                        <File name="smartserver\Workerman\Protocols\Http\mime.types" />
+                    </Folder>
+                    <File name="smartserver\Workerman\Protocols\GatewayProtocol.php" />
+                    <File name="smartserver\Workerman\Protocols\Http.php" />
+                    <File name="smartserver\Workerman\Protocols\ProtocolInterface.php" />
+                    <File name="smartserver\Workerman\Protocols\Text.php" />
+                    <File name="smartserver\Workerman\Protocols\Websocket.php" />
+                </Folder>
+                <File name="smartserver\Workerman\Autoloader.php" />
+                <File name="smartserver\Workerman\WebServer.php" />
+                <File name="smartserver\Workerman\Worker.php" />
+            </Folder>
+            <File name="smartserver\start.php" />
+        </Folder>
+        <Folder name="web">
+            <Folder name="device">
+                <File name="web\device\action.php" />
+            </Folder>
+            <Folder name="img">
+                <File name="web\img\test.jpg" />
+            </Folder>
+            <Folder name="libs">
+                <Folder name="ezSQL-master">
+                    <Folder name="codeigniter">
+                        <File name="web\libs\ezSQL-master\codeigniter\Ezsql_codeigniter.php" />
+                        <File name="web\libs\ezSQL-master\codeigniter\install.txt" />
+                    </Folder>
+                    <Folder name="cubrid">
+                        <File name="web\libs\ezSQL-master\cubrid\demo.php" />
+                        <File name="web\libs\ezSQL-master\cubrid\disk_cache_example.php" />
+                        <File name="web\libs\ezSQL-master\cubrid\ez_sql_cubrid.php" />
+                        <File name="web\libs\ezSQL-master\cubrid\select_example.php" />
+                    </Folder>
+                    <Folder name="mssql">
+                        <File name="web\libs\ezSQL-master\mssql\demo.php" />
+                        <File name="web\libs\ezSQL-master\mssql\ez_sql_mssql.php" />
+                    </Folder>
+                    <Folder name="mysql">
+                        <File name="web\libs\ezSQL-master\mysql\demo.php" />
+                        <File name="web\libs\ezSQL-master\mysql\disk_cache_example.php" />
+                        <File name="web\libs\ezSQL-master\mysql\ez_sql_mysql.php" />
+                        <File name="web\libs\ezSQL-master\mysql\tags" />
+                    </Folder>
+                    <Folder name="mysqli">
+                        <File name="web\libs\ezSQL-master\mysqli\demo.php" />
+                        <File name="web\libs\ezSQL-master\mysqli\ez_sql_mysqli.php" />
+                    </Folder>
+                    <Folder name="oracle8_9">
+                        <File name="web\libs\ezSQL-master\oracle8_9\demo.php" />
+                        <File name="web\libs\ezSQL-master\oracle8_9\disk_cache_example.php" />
+                        <File name="web\libs\ezSQL-master\oracle8_9\ez_sql_oracle8_9.php" />
+                    </Folder>
+                    <Folder name="pdo">
+                        <File name="web\libs\ezSQL-master\pdo\demo_pdo_for_mysql.php" />
+                        <File name="web\libs\ezSQL-master\pdo\demo_pdo_for_sqlite.php" />
+                        <File name="web\libs\ezSQL-master\pdo\ez_sql_pdo.php" />
+                    </Folder>
+                    <Folder name="postgresql">
+                        <File name="web\libs\ezSQL-master\postgresql\demo.php" />
+                        <File name="web\libs\ezSQL-master\postgresql\ez_sql_postgresql.php" />
+                    </Folder>
+                    <Folder name="shared">
+                        <File name="web\libs\ezSQL-master\shared\ez_sql_core.php" />
+                        <File name="web\libs\ezSQL-master\shared\ez_sql_core_2.1_debughack_0.2alpha.php" />
+                        <File name="web\libs\ezSQL-master\shared\ez_sql_core_202console.php" />
+                        <File name="web\libs\ezSQL-master\shared\readme_debughack_0.2alpha.txt" />
+                    </Folder>
+                    <Folder name="sqlite">
+                        <File name="web\libs\ezSQL-master\sqlite\demo.php" />
+                        <File name="web\libs\ezSQL-master\sqlite\ez_sql_sqlite.php" />
+                        <File name="web\libs\ezSQL-master\sqlite\ez_sql_sqlite3.php" />
+                        <File name="web\libs\ezSQL-master\sqlite\sqlite_test.db" />
+                    </Folder>
+                    <Folder name="sqlsrv">
+                        <File name="web\libs\ezSQL-master\sqlsrv\demo.php" />
+                        <File name="web\libs\ezSQL-master\sqlsrv\ez_sql_sqlsrv.php" />
+                    </Folder>
+                    <Folder name="sybase">
+                        <File name="web\libs\ezSQL-master\sybase\ez_sql_sybase.php" />
+                    </Folder>
+                    <File name="web\libs\ezSQL-master\composer.json" />
+                    <File name="web\libs\ezSQL-master\ez_sql_help.htm" />
+                    <File name="web\libs\ezSQL-master\ez_sql_with_smarty.html" />
+                    <File name="web\libs\ezSQL-master\readme.txt" />
+                </Folder>
+                <Folder name="iBeeAir2">
+                    <Folder name="base">
+                        <File name="web\libs\iBeeAir2\base\._Assistant.php.swp" />
+                        <File name="web\libs\iBeeAir2\base\_Assistant.php" />
+                        <File name="web\libs\iBeeAir2\base\_Device.php" />
+                        <File name="web\libs\iBeeAir2\base\_House.php" />
+                        <File name="web\libs\iBeeAir2\base\_Notify.php" />
+                        <File name="web\libs\iBeeAir2\base\_Room.php" />
+                        <File name="web\libs\iBeeAir2\base\_Scene.php" />
+                    </Folder>
+                    <Folder name="control">
+                        <File name="web\libs\iBeeAir2\control\_Curtain.php" />
+                        <File name="web\libs\iBeeAir2\control\_Socket.php" />
+                        <File name="web\libs\iBeeAir2\control\_Switch.php" />
+                    </Folder>
+                    <Folder name="core">
+                        <File name="web\libs\iBeeAir2\core\Action.php" />
+                        <File name="web\libs\iBeeAir2\core\Communicate.php" />
+                        <File name="web\libs\iBeeAir2\core\DeviceControl.php" />
+                        <File name="web\libs\iBeeAir2\core\Error.php" />
+                        <File name="web\libs\iBeeAir2\core\Event.php" />
+                        <File name="web\libs\iBeeAir2\core\Protocol.php" />
+                    </Folder>
+                    <Folder name="manage">
+                        <File name="web\libs\iBeeAir2\manage\_Device.php" />
+                        <File name="web\libs\iBeeAir2\manage\_Modules.php" />
+                        <File name="web\libs\iBeeAir2\manage\_Room.php" />
+                        <File name="web\libs\iBeeAir2\manage\_Scene.php" />
+                        <File name="web\libs\iBeeAir2\manage\_Timing.php" />
+                    </Folder>
+                    <Folder name="user">
+                        <File name="web\libs\iBeeAir2\user\_User.php" />
+                    </Folder>
+                </Folder>
+                <File name="web\libs\Db.php" />
+                <File name="web\libs\User.php" />
+            </Folder>
+            <Folder name="manage">
+                <File name="web\manage\assistant.php" />
+                <File name="web\manage\base.php" />
+                <File name="web\manage\database.php" />
+                <File name="web\manage\extend.php" />
+                <File name="web\manage\invoke.php" />
+                <File name="web\manage\master.php" />
+                <File name="web\manage\runscene.php" />
+                <File name="web\manage\scene.php" />
+                <File name="web\manage\test.txt" />
+                <File name="web\manage\user.php" />
+            </Folder>
+            <Folder name="myweb">
+                <Folder name="base">
+                    <File name="web\myweb\base\_Assistant.php" />
+                    <File name="web\myweb\base\_Device.php" />
+                    <File name="web\myweb\base\_House.php" />
+                    <File name="web\myweb\base\_Modules.php" />
+                    <File name="web\myweb\base\_Notify.php" />
+                    <File name="web\myweb\base\_Room.php" />
+                    <File name="web\myweb\base\_Scene.php" />
+                    <File name="web\myweb\base\_Scene.php.bak" />
+                    <File name="web\myweb\base\_Timing.php" />
+                </Folder>
+                <Folder name="control">
+                    <File name="web\myweb\control\functions.php" />
+                    <File name="web\myweb\control\Uart.php" />
+                    <File name="web\myweb\control\_Curtain.php" />
+                    <File name="web\myweb\control\_Socket.php" />
+                    <File name="web\myweb\control\_Switch.php" />
+                </Folder>
+                <Folder name="db">
+                    <File name="web\myweb\db\Db.php" />
+                    <File name="web\myweb\db\db_creat.php" />
+                    <File name="web\myweb\db\ez_sql_core.php" />
+                    <File name="web\myweb\db\ez_sql_mysql.php" />
+                    <File name="web\myweb\db\ez_sql_sqlite3.php" />
+                </Folder>
+                <Folder name="libs">
+                    <Folder name="GatewayClient-master">
+                        <Folder name="Config">
+                            <File name="web\myweb\libs\GatewayClient-master\Config\Store.php" />
+                        </Folder>
+                        <File name="web\myweb\libs\GatewayClient-master\Gateway.php" />
+                        <File name="web\myweb\libs\GatewayClient-master\MIT-LICENSE.txt" />
+                    </Folder>
+                    <File name="web\myweb\libs\Action.php" />
+                    <File name="web\myweb\libs\Communicate.php" />
+                    <File name="web\myweb\libs\DeviceControl.php" />
+                    <File name="web\myweb\libs\Error.php" />
+                    <File name="web\myweb\libs\Event.php" />
+                    <File name="web\myweb\libs\functions.php" />
+                    <File name="web\myweb\libs\Protocol.php" />
+                    <File name="web\myweb\libs\User.php" />
+                </Folder>
+                <Folder name="manage">
+                    <File name="web\myweb\manage\action.php" />
+                    <File name="web\myweb\manage\assistant.php" />
+                    <File name="web\myweb\manage\base.php" />
+                    <File name="web\myweb\manage\user.php" />
+                    <File name="web\myweb\manage\_Assistant.php" />
+                    <File name="web\myweb\manage\_Device.php" />
+                    <File name="web\myweb\manage\_House.php" />
+                    <File name="web\myweb\manage\_Modules.php" />
+                    <File name="web\myweb\manage\_Notify.php" />
+                    <File name="web\myweb\manage\_Room.php" />
+                    <File name="web\myweb\manage\_Scene.php" />
+                    <File name="web\myweb\manage\_Timing.php" />
+                </Folder>
+                <Folder name="user">
+                    <File name="web\myweb\user\User.php" />
+                    <File name="web\myweb\user\_AllDevice.php" />
+                    <File name="web\myweb\user\_User.php" />
+                </Folder>
+                <File name="web\myweb\base.php" />
+            </Folder>
+            <Folder name="tmp">
+                <Folder name="libs">
+                    <Folder name="db">
+                        <File name="web\tmp\libs\db\db.php" />
+                        <File name="web\tmp\libs\db\ez_sql_core.php" />
+                        <File name="web\tmp\libs\db\ez_sql_sqlite3.php" />
+                    </Folder>
+                    <Folder name="Root">
+                        <File name="web\tmp\libs\Root\_Root.php" />
+                    </Folder>
+                    <Folder name="Services">
+                        <Folder name="base">
+                            <File name="web\tmp\libs\Services\base\_House.php" />
+                        </Folder>
+                        <Folder name="extend">
+                            <File name="web\tmp\libs\Services\extend\_Device.php" />
+                            <File name="web\tmp\libs\Services\extend\_Room.php" />
+                            <File name="web\tmp\libs\Services\extend\_Scene.php" />
+                        </Folder>
+                        <File name="web\tmp\libs\Services\ControlJSONRPC.php" />
+                        <File name="web\tmp\libs\Services\_Curtain.php" />
+                        <File name="web\tmp\libs\Services\_Modules.php" />
+                        <File name="web\tmp\libs\Services\_Root.php" />
+                        <File name="web\tmp\libs\Services\_Scene.php" />
+                        <File name="web\tmp\libs\Services\_Socket.php" />
+                        <File name="web\tmp\libs\Services\_Switch.php" />
+                    </Folder>
+                    <File name="web\tmp\libs\Event.php" />
+                    <File name="web\tmp\libs\functions.php" />
+                    <File name="web\tmp\libs\Uart.php" />
+                </Folder>
+                <Folder name="web">
+                    <Folder name="css">
+                        <Folder name="images">
+                            <File name="web\tmp\web\css\images\ajax-loader.gif" />
+                        </Folder>
+                        <File name="web\tmp\web\css\jquery.mobile-1.3.2.min.css" />
+                        <File name="web\tmp\web\css\jquery.mobile-1.4.5.min.css" />
+                    </Folder>
+                    <Folder name="img">
+                        <File name="web\tmp\web\img\wifi_level0.png" />
+                        <File name="web\tmp\web\img\wifi_level1.png" />
+                        <File name="web\tmp\web\img\wifi_level2.png" />
+                        <File name="web\tmp\web\img\wifi_level3.png" />
+                        <File name="web\tmp\web\img\wifi_level4.png" />
+                    </Folder>
+                    <Folder name="js">
+                        <File name="web\tmp\web\js\jquery-1.8.3.min.js" />
+                        <File name="web\tmp\web\js\jquery.mobile-1.3.2.min.js" />
+                        <File name="web\tmp\web\js\jquery.mobile-1.4.5.min.js" />
+                        <File name="web\tmp\web\js\jquery.mobile-1.4.5.min.map" />
+                        <File name="web\tmp\web\js\manage.php" />
+                    </Folder>
+                </Folder>
+                <Folder name="wireless">
+                    <Folder name="form">
+                        <File name="web\tmp\wireless\form\connectto.php" />
+                    </Folder>
+                    <File name="web\tmp\wireless\listwifi.php" />
+                    <File name="web\tmp\wireless\wificonnect.php" />
+                </Folder>
+                <File name="web\tmp\database.php" />
+                <File name="web\tmp\invoke.php" />
+                <File name="web\tmp\runscene.php" />
+                <File name="web\tmp\test.html" />
+            </Folder>
+            <File name="web\index.php" />
+            <File name="web\myweb.tar" />
+        </Folder>
+        <File name="sopings" />
+    </Project>
+</NotepadPlus>
